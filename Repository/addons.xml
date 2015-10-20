@@ -18,7 +18,7 @@
 			<description>This addon is supported at [COLOR blue]www.XBMCHub.com[/COLOR], [COLOR white][B]NOT[/B][/COLOR]
 				[COLOR red]xbmc.org[/COLOR]. Play a wide selection of movies and TV shows from 1channel.ch
 			</description>
-			<source>https://raw.github.com/Crazyaddon/MXRepo/master/repo</source>
+			<source>https://raw.github.com/Crazyaddon/MXRepo/master/Repository/repo/</source>
 			<platform>all</platform>
 		</extension>
 	</addon>
