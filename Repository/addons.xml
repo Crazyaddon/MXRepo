@@ -5,17 +5,15 @@
 			<import addon="xbmc.python" version="2.1.0"/>
 			<import addon="script.module.urlresolver"/>
 			<import addon="script.module.t0mm0.common"/>
-			<import addon="script.module.metahandler" />
-			<import addon="script.module.myconnpy" />
+			<import addon="script.module.metahandler"/>
+			<import addon="script.module.myconnpy"/>
 		</requires>
 		<extension point="xbmc.python.pluginsource" library="default.py">
 			<provides>video</provides>
 		</extension>
 		<extension point="xbmc.addon.metadata">
 			<summary>Browse 1channel.ch</summary>
-			<description>This addon is supported at [COLOR blue]www.XBMCHub.com[/COLOR], [COLOR white][B]NOT[/B][/COLOR]
-				[COLOR red]xbmc.org[/COLOR]. Play a wide selection of movies and TV shows from 1channel.ch
-			</description>
+			<description>This addon is supported at www.XBMCHub.com,lay a wide selection of movies and TV shows from 1channel.ch</description>
 			<source>https://raw.github.com/Crazyaddon/MXRepo/master/Repository/repo/</source>
 			<platform>all</platform>
 		</extension>
