@@ -1,0 +1,11 @@
+[B]Version 0.0.3[/B]
+  - Return country code as 'US' if crackle is not available in that country.
+
+[B]Version 0.0.2[/B]
+  - Get country code from api.
+  - Use Cachefunction
+  - Changed 480p to high bit rate 480p (1 mbps)
+  - Fixed where shows were only showing one season.
+  
+[B]Version 0.0.1[/B]
+  - initial version
