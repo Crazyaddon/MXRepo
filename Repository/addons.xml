@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
 	<addon id="plugin.video.1channel" version="2.1.1" name="1Channel" provider-name="Bstrdsmkr">
+		<requires>
+			<import addon="xbmc.python" version="2.1.0"/>
+			<import addon="script.module.urlresolver"/>
+			<import addon="script.module.t0mm0.common"/>
+			<import addon="script.module.metahandler"/>
+			<import addon="script.module.myconnpy"/>
+		</requires>
 		<extension point="xbmc.python.pluginsource" library="default.py">
 			<provides>video</provides>
 		</extension>
@@ -12,6 +19,9 @@
 		</extension>
 	</addon>
 	<addon id="plugin.video.alaska.hd" name="Alaska HDTV" version="0.0.1" provider-name="divingmule">
+		<requires>
+			<import addon="xbmc.python" version="1.0"/>
+		</requires>
 		<extension point="xbmc.python.pluginsource" library="default.py">
 			<provides>video</provides>
 		</extension>
