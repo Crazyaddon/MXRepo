@@ -1,3 +1,110 @@
+[B]Version 2.10.0[/B]
+- Code Base Changes:
+    - Removed dependency in addon.xml for Youtube, Gotham users would not be able to install as official youtube addon only exists in Helix+ repo
+- Resolvers Added:
+    - Up2Stream
+    - Vid.gg
+    - Vkpass
+    - Stream2K
+- Resolvers Fixed/Updated:
+    - ClicknUpload
+    - CloudyVideos
+    - OpenLoad
+    - Vidzi
+    - Vid.me
+    - Vk.com
+    - Vidlocker
+    - Youwatch
+    - FlashX
+    - NosVideo
+    - Promptfile
+
+[B]Version 2.9.0[/B]
+- Code Base Changes:
+    - Move all exception handling out of resolvers, handled at higher level now
+    - Updated SolveMedia captcha handling
+- Resolvers Added:
+    - XFileUpload
+    - ClicknUpload
+    - TusFiles
+    - Filepup
+- Resolvers Fixed/Updated:
+    - 180Upload
+    - Divxstage
+    - Exashare
+    - Teramixer
+    - CloudyVideos
+    - MightyUpload
+    - Videomega
+
+[B]Version 2.8.0[/B]
+- Code Base Changes:
+    - Speed enhancements - Further to changes made in 2.7.0 
+        - New routine to select appropriate host for given url
+    - Compile resolver settings into reduced number of tabs to avoid Helix 100 settings tab limit
+- Resolvers Added:
+- Resolvers Fixed/Updated:
+    - HugeFiles
+    - Bestreams
+    - VideoMega
+    - Vidplay
+    - Vidxden
+    - Letwatchus
+    - 180Upload
+
+   
+[B]Version 2.7.0[/B]
+- Code Base Changes:
+    - Speed enhancements:
+        - Don't load into mem all resolvers on init, load only when used
+        - Only build settings.xml on first init after initial install or new version
+    - Verify final link doesn't give http error before returning
+- Resolvers Added:
+    - RoyalVids
+    - VShare
+    - CloudyVideos
+    - Streamin.to
+- Resolvers Fixed/Updated:
+    - MovReel
+    - BillionUploads
+    - Novamov
+    - Premiumize
+    - TheVideo.me
+    - VidSpot
+    - VeeHD
+    - Vidbull
+- Removed dead resolvers
+    
+[B]Version 2.6.0[/B]
+- Code Base Changes:
+    - Allow host validation to work with universal resolvers
+- Resolvers Added:
+    - Realvid
+    - Letwatch
+    - Speedvideo
+    - Videohut
+- Resolvers Fixed/Updated:
+    - Vidbull
+    - VeeHD
+    - VODLocker (speed improvement)
+    - MightyUpload
+    - Exashare
+    - Tunepk
+
+[B]Version 2.5.0[/B]
+- Added Teramixer
+- Added Exashare
+- Fixed 180Upload
+- Fixed BillionUploads
+- Fixed HugeFiles
+- Fixed VidPlay
+- Fixed MovDivx
+- Fixed ShareSix
+- Fixed Vodlocker
+- Fixed AllMyVideos
+- Fixed Played.To
+- Small fixes  to Sockshare captcha
+
 [B]Version 2.4.0[/B]
 - Reverted back to using t0mm0.common as addon.common is creating naming issues
 

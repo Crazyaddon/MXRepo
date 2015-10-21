@@ -1,3 +1,28 @@
+[B]1.8.2[/B]
+- Fixed: Runtime being zero in some cases
+
+[B]1.8.1[/B]
+- removed unsupported languages
+
+[B]1.8.0[/B]
+- added extra languages for selection
+- changed language to a selection list
+
+[B]1.7.2[/B]
+- Updated: handle artwork via GetArt chain
+
+[B]1.7.1[/B]
+- Updated: language files from Transifex
+
+[B]1.7.0[/B]
+- Added: Option to get IMDb episode and series rating when available
+
+[B]1.6.0[/B]
+- Changed: Force selected language even if title on another language is being used for the search query
+
+[B]1.5.9[/B]
+- Updated: language files from Transifex
+
 v1.5.8
 - Added: retrieve number of votes in GetDetails/GetEpisodeDetails
 
