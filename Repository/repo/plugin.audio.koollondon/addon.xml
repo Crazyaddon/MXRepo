@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<addon
+        id="plugin.audio.koollondon" 
+        name="koollondon" 
+        version="9.4.8" 
+        provider-name="@TheYid009">
+		<requires>
+			<import addon="xbmc.python"             	version="2.1.0"/>
+			<import addon="xbmc.addon"              	version="12.1.0"/>
+                     <import addon="script.module.TheYid.common" version="0.1.1"/>
+		</requires>
+		<extension point="xbmc.python.pluginsource" library="default.py">
+			<provides>audio</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">koollondon</summary>
+			<description lang="en">Listen to Kool london 94.6 fm 22 years and still going drum n bass jungle old skool</description>
+			<disclaimer lang="en">All streams and content is owned by koollondon... Addon code provided by atb a member from xbmchub forum and reworked by TheYid's REPO</disclaimer>
+			<platform>all</platform>
+			<license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
+			<language>en</language>
+			<forum>www.koollondon.com</forum>
+			<website>www.koollondon.com</website>
+			<email>@ThYid009</email>
+			<source>www.koollondon.com</source>
+		</extension>
+	</addon>

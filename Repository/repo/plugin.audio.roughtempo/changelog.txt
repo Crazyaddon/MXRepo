@@ -1,0 +1,14 @@
+[B]Version 0.0.8[/B]
+- fixed streams
+
+[B]Version 0.0.7[/B]
+- fixed video feed 
+
+[B]Version 0.0.6[/B]
+- added just audio feed for rough tempo.
+
+[B]Version 0.0.5[/B]
+- added rave:tv
+
+[B]Version 0.0.4[/B]
+- Initial version of rough tempo

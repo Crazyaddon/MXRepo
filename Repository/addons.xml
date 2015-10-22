@@ -996,6 +996,56 @@
       <email></email>
     </extension>
   </addon>
+  <addon
+      id="plugin.audio.DejaVu"
+      name="DejaVu FM"
+      version="0.0.2"
+      provider-name="TheYid">
+    <requires>
+      <import addon="xbmc.python"             	version="2.1.0"/>
+      <import addon="xbmc.addon"              	version="12.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+      <provides>audio</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <summary lang="en">DejaVu FM</summary>
+      <description lang="en">Listen to DejaVu FM; London's finest underground radio station</description>
+      <disclaimer lang="en">DejaVu.co.uk</disclaimer>
+      <platform>all</platform>
+      <license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
+      <language>en</language>
+      <forum></forum>
+      <website></website>
+      <email></email>
+      <source></source>
+    </extension>
+  </addon>
+  <addon
+      id="plugin.audio.freekfmlive"
+      name="Freek fm live"
+      version="1.0.0"
+      provider-name="@TheYid009">
+    <requires>
+      <import addon="xbmc.python"             	version="2.1.0"/>
+      <import addon="xbmc.addon"              	version="12.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+      <provides>audio</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <summary lang="en">Welcome to the original House and Garage fire starter from the dayz of old (Live Audio, video radio streaming)</summary>
+      <description lang="en">Welcome to the original House and Garage fire starter from the dayz of old. Back in 2012 on www.freekfmlive.com , www.freekfm.net Keeping true to what we do best playing classic and new house N garage and all the popular dance music. Freek FM was est. in the early 90s, stacking up award after award for the best radio network in the world of house n garage. Boasting the best of the best and the rising stars in the UKG scene.[CR] The first transmission was Dj Timmi Magic, Operator and Lennie-de-ice. During this time the sky held no limits to what Freek could achieve. The popularity grew so strong to which other members joined on and the weekly events started in north london called BACK TO THE MANOR, With freek members TIMMI MAGIC, DJ EZ, OPERATOR, THE VETERAN MADDNESS, SPECIAL K, DJ TOUCH, RAMSEY N FEN, DJ CLIPPER, JAZZY D, BARNSEY, BADGER B... and more.</description>
+      <disclaimer lang="en">All streams and content is owned by freekfmlive...</disclaimer>
+      <platform>all</platform>
+      <license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
+      <language>en</language>
+      <forum>www.xbmchub.com</forum>
+      <website>www.freekfmlive.com</website>
+      <email>@ThYid009</email>
+      <source>www.freekfmlive.com</source>
+    </extension>
+  </addon>
   <addon id="plugin.audio.iheart" name="iHeartRadio" version="0.0.2" provider-name="divingmule">
     <requires>
       <import addon="xbmc.python" version="2.1.0"/>
@@ -1041,6 +1091,32 @@
       <description lang="en">
         Presenting jazz radio channels for your enjoyment. Listen for free and enjoy countless hours of the best jazz music around
       </description>
+    </extension>
+  </addon>
+  <addon
+      id="plugin.audio.koollondon"
+      name="koollondon"
+      version="9.4.8"
+      provider-name="@TheYid009">
+    <requires>
+      <import addon="xbmc.python"             	version="2.1.0"/>
+      <import addon="xbmc.addon"              	version="12.1.0"/>
+      <import addon="script.module.TheYid.common" version="0.1.1"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+      <provides>audio</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <summary lang="en">koollondon</summary>
+      <description lang="en">Listen to Kool london 94.6 fm 22 years and still going drum n bass jungle old skool</description>
+      <disclaimer lang="en">All streams and content is owned by koollondon... Addon code provided by atb a member from xbmchub forum and reworked by TheYid's REPO</disclaimer>
+      <platform>all</platform>
+      <license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
+      <language>en</language>
+      <forum>www.koollondon.com</forum>
+      <website>www.koollondon.com</website>
+      <email>@ThYid009</email>
+      <source>www.koollondon.com</source>
     </extension>
   </addon>
   <addon id="plugin.audio.radio_de" name="Radio" version="2.3.1" provider-name="Tristan Fischer (sphere@dersphere.de)">
@@ -1150,6 +1226,57 @@
       <email>seanpoyser at gmail dot com</email>
     </extension>
   </addon>
+  <addon
+      id="plugin.audio.rinsefmplayer"
+      name="Rinse FM"
+      version="1.0.9"
+      provider-name="@TheYid009">
+    <requires>
+      <import addon="xbmc.python"             	version="2.1.0"/>
+      <import addon="xbmc.addon"              	version="12.1.0"/>
+      <import addon="script.module.TheYid.common" version="0.1.1"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+      <provides>audio</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <summary lang="en">Rinse FM player Lock in LIVE: 106.8 FM in London or http://radio.rinse.fm/ - find out who's playing right now here: http://rinse.fm/player/Studio.  Call or SMS: +44 (0)7539 863 117. BBM instant messaging: 21FF5BFF</summary>
+      <description lang="en">Rinse has dominated Londons radio airwaves for over a decade as a hub of the capitals thriving urban music community From Dubstep to Grime to House and everything in between Rinse has championed Londons diverse cultural needs reaching massively under represented communities with grass roots music... Tweet us at @rinsefm</description>
+      <disclaimer lang="en">All streams and content is owned by Rinse FM...</disclaimer>
+      <platform>all</platform>
+      <license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
+      <language>en</language>
+      <forum>www.xbmchub.com</forum>
+      <website>http://rinse.fm/</website>
+      <email>@ThYid009</email>
+      <source>http://rinse.fm/</source>
+    </extension>
+  </addon>
+  <addon
+      id="plugin.audio.roughtempo"
+      name="Rough Tempo"
+      version="0.0.8"
+      provider-name="@TheYid009">
+    <requires>
+      <import addon="xbmc.python"             	version="2.1.0"/>
+      <import addon="xbmc.addon"              	version="12.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+      <provides>audio</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <summary lang="en">Rough Tempo, WINNER OF BEST RADIO STATION - THE DRUM AND BASS AWARDS 2014 (Live video streaming)</summary>
+      <description lang="en">www.roughtempo.com Over 120 Hours a week of LIVE DJs from the UK and Worldwide with Multiple Cams, Chat and Huge name Special Guests Weekly.. [CR] PREVIOUS SPECIAL GUESTS INCLUDE: TC - ORIGINAL SIN - HEIST - KRAFTY KUTS - MODESTEP - DARREN STYLES - GAMMER - HAMILTON - LOGAN D - SDC - AYAH MARAR - APHRODITE - KENNY KEN - SLIPMATT - ELLIS DEE - RAGGA TWINS - BROCKIE - JUMPING JACK FROST - DEVIOUS D and MANY MORE!!</description>
+      <disclaimer lang="en">All streams and content is owned by Rough Tempo... Addon code provided by atb a member from xbmchub forum and reworked by TheYid's REPO</disclaimer>
+      <platform>all</platform>
+      <license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
+      <language>en</language>
+      <forum></forum>
+      <website>www.roughtempo.com</website>
+      <email>@ThYid009</email>
+      <source>www.roughtempo.com</source>
+    </extension>
+  </addon>
   <addon id="plugin.audio.sky.fm"
        name="Sky.fm"
        version="3.0.8"
@@ -1169,6 +1296,77 @@
         SKY.FM Radio features a wide variety of free streaming radio channels. Find your favorites among the best of each class - be it New Age, 80s, Smooth Jazz, New Age, Top40, Hip Hop, Oldies, 70s, Reggae, Lounge or many others inside.
       </description>
       <language/>
+    </extension>
+  </addon>
+  <addon
+      id="plugin.audio.ts5player"
+      name="TS5 player (Capital XTRA)"
+      version="1.1.8"
+      provider-name="@TheYid009">
+    <requires>
+      <import addon="xbmc.python"             	version="2.1.0"/>
+      <import addon="xbmc.addon"              	version="12.1.0"/>
+      <import addon="script.module.TheYid.common" version="0.1.1"/>
+      <import addon="repository.entertainmentrepo" version="1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+      <provides>audio</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <summary lang="en">TS5 player</summary>
+      <description lang="en">Craig David PRESENTS TS5 LIVE FROM MIAMI EVERY FRIDAY AT 10PM ONLY ON CAPITAL XTRA live and on demand</description>
+      <disclaimer lang="en">All streams and content is owned by Capital XTRA...</disclaimer>
+      <platform>all</platform>
+      <license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
+      <language>en</language>
+      <forum>www.xbmchub.com</forum>
+      <website>http://www.capitalxtra.com/</website>
+      <email>@ThYid009</email>
+      <source>http://www.capitalxtra.com/</source>
+    </extension>
+  </addon>
+  <addon id="plugin.program.addoninstaller" version="1.2.0"
+  name="Addon Installer" provider-name="tvaddons.ag, Blazetamer, TheHighway">
+    <requires>
+      <import addon="xbmc.python" version="2.1.0"/>
+      <import addon="script.module.addon.common" optional="true" />
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+      <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <summary>Addon Browser</summary>
+      <description>Its like an App Store where you'll find Addons for Kodi, and everything is free!</description>
+      <disclaimer>By using this, you take reponsibility for anything that happens.</disclaimer>
+      <language>en</language>
+      <platform>all</platform>
+      <forum>http://forums.tvaddons.ag/forums/156-ADDON-INSTALLER</forum>
+      <website>http://addons.tvaddons.ag/</website>
+      <source></source>
+      <email></email>
+    </extension>
+  </addon>
+  <addon id="plugin.program.xbmchub.notifications" version="1.0.2"
+       name="Notifications" provider-name="tvaddons.ag">
+    <requires>
+      <import addon="xbmc.python" version="2.1.0"/>
+      <import addon="script.module.addon.common" optional="true" />
+    </requires>
+    <extension point="xbmc.python.script" library="default.py">
+      <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py" start="startup">
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <summary>TVADDONS NEWS</summary>
+      <description>Receive Important TVADDONS Notifications. Unsubscribe within Add-on Settings.</description>
+      <disclaimer>We take no responsibility for any problems this plugin might in any way, form, shape or size cause.</disclaimer>
+      <language>en</language>
+      <platform>all</platform>
+      <forum>http://forums.tvaddons.ag/forum.php</forum>
+      <website>http://www.tvaddons.ag/</website>
+      <source></source>
+      <email></email>
     </extension>
   </addon>
   <addon id="plugin.video.1channel" version="2.1.1" name="1Channel" provider-name="Bstrdsmkr">
@@ -1314,6 +1512,87 @@
       <platform>all</platform>
     </extension>
   </addon>
+  <addon id="plugin.video.dmd-czech.dvtv" name="Drtinová Veselovský TV" version="1.2.3" provider-name="Štěpán Ort">
+    <requires>
+      <import addon="xbmc.python" version="2.1.0"/>
+      <import addon="script.module.dmd-czech.common" version="1.5.5"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+      <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <summary>DVTV - Drtinová, Veselovský TV</summary>
+      <description>Plugin to play videos from DVTV.cz</description>
+      <description lang="cs">Exkluzivní rozhovory s vlivnými lidmi české politiky a byznysu. Nejlepší profesionálové v roli moderátorů, kteří se ptají tak přímo a tak dlouho, dokud nedostanou odpověď. Reportáže z míst, kde byste neměli chybět. Klíčové kulturní a společenské události. To vše nabízí první publicistický videokanál na českém internetu.</description>
+      <platform>all</platform>
+    </extension>
+  </addon>
+  <addon id="plugin.video.dmd-czech.novaplus"
+         name="Nova Plus TV Archiv"
+         version="1.0.5"
+         provider-name="Jiri Vyhnalek">
+    <requires>
+      <import addon="xbmc.python" version="2.1.0"/>
+      <import addon="script.module.dmd-czech.common" version="1.5.5"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+      <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <platform>all</platform>
+      <summary>Nova Plus TV video-archive plugin</summary>
+      <summary lang="cs">Nova Plus TV - archiv</summary>
+      <description>
+        Plugin to play TV video archive Novaplus.nova.cz
+      </description>
+      <description lang="cs">
+        Plugin pro přehrávání videí z archivu Novaplus.nova.cz
+      </description>
+      <source>https://github.com/kodi-czsk/plugin.video.dmd-czech.novaplus</source>
+    </extension>
+  </addon>
+  <addon id="plugin.video.dmd-czech.prima"
+         name="Prima PLAY"
+         version="4.0.7"
+         provider-name="Jiri Vyhnalek">
+    <requires>
+      <import addon="xbmc.python" version="2.1.0"/>
+      <import addon="script.module.dmd-czech.common" version="1.5.5"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+      <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <platform>all</platform>
+      <summary>Prima TV video-archive plugin</summary>
+      <summary lang="cs">Prima PLAY</summary>
+      <description>
+        Plugin to play TV video archive play.iprima.cz
+      </description>
+      <description lang="cs">
+        Plugin pro přehrávání videí z archivu play.iprima.cz
+      </description>
+      <source>https://github.com/kodi-czsk/plugin.video.dmd-czech.prima</source>
+    </extension>
+  </addon>
+  <addon id="plugin.video.earthcam"
+	name="EarthCam"
+	version="1.0.9"
+	provider-name="tvaddons.ag,idleloop">
+    <requires>
+      <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+      <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <summary lang="en">EarthCam</summary>
+      <description lang="en">EarthCam.com is the premiere network of scenic webcams and offers a complete database of interesting places and views from around the world. EarthCam.com is the worlds favorite webcam network and the EarthCam Network cameras have been seen on top news shows, including CNN Headline News.</description>
+      <platform>all</platform>
+      <forum>http://forums.tvaddons.ag/forums/113-TVADDONS-AG-ADDON-REPOSITORY</forum>
+      <website>http://www.tvaddons.ag/</website>
+    </extension>
+  </addon>
   <addon id="plugin.video.empflix" name="Empflix" version="2.0.8" provider-name="xbmc-adult">
     <requires>
       <import addon="xbmc.python" version="2.1.0"/>
@@ -1427,6 +1706,25 @@
       <source>https://github.com/learningit/plugin.video.fox.news</source>
       <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
       <website>http://video.foxnews.com</website>
+    </extension>
+  </addon>
+  <addon id="plugin.video.fantasticc"
+       name="Fantasti.cc"
+       version="2.3.22"
+       provider-name="xbmc-adult">
+    <requires>
+      <import addon="xbmc.python" version="2.1.0"/>
+      <import addon="script.module.pil"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource"
+               library="default.py">
+      <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <platform>all</platform>
+      <license>GPL 2.0</license>
+      <summary lang="en">Fantasti.cc -  Browse videos from a site that aggregates the best porn videos online using the votes of users as the deciding factor</summary>
+      <description lang="en">Browse collections (user designed categories) as well as the most popular videos today/week/month as decided by the users of the site</description>
     </extension>
   </addon>
   <addon id="plugin.video.g4tv"
@@ -1669,6 +1967,25 @@
       <email>AddonScriptorDE at yahoo dot de</email>
     </extension>
   </addon>
+  <addon id="plugin.video.hubwizard" version="1.1.9"
+	name="Config Wizard" provider-name="tvaddons.ag">
+    <requires>
+      <import addon="xbmc.python" version="2.1.0"/>
+      <import addon="script.module.addon.common" optional="true" />
+      <import addon="script.module.t0mm0.common" optional="true" />
+      <import addon="script.module.urlresolver" optional="true" />
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+      <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <summary>Config Wizard</summary>
+      <description>Instantly configure your Kodi experience with all the best add-ons and goodies from the TVADDONS.AG community!  </description>
+      <platform>all</platform>
+      <forum>http://forums.tvaddons.ag/forums/106-CONFIG-WIZARD</forum>
+      <website>http://www.tvaddons.ag/</website>
+    </extension>
+  </addon>
   <addon id="plugin.video.icefilms"
        name="Icefilms"
        version="1.16.0"
@@ -1813,6 +2130,20 @@
       <disclaimer lang="zh">不需要iTunes软件！</disclaimer>
     </extension>
   </addon>
+  <addon id="plugin.video.ivysilani" name="iVysílání — Česká televize" version="1.3.2" provider-name="Štěpán Ort">
+    <requires>
+      <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+      <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <summary>iVysílání — Česká televize</summary>
+      <description>Plugin to play videos and live TV from Czech Television's iVysilani</description>
+      <description lang="cs">Plugin nabízí přístup do archivu České televize iVysílání i přehrávání kanálů živě.</description>
+      <platform>all</platform>
+    </extension>
+  </addon>
   <addon id="plugin.video.joeroganexperience" name="The Joe Rogan Experience" version="2.0.1" provider-name="Lex Toumbourou (lexandstuff) &amp; Paddy Carey (paddycarey)">
     <requires>
       <import addon="xbmc.python" version="2.1.0"/>
@@ -1846,6 +2177,24 @@
       <summary>Thousands of Free Streaming Porn videos! Updated every day. Lube Tube is the youtube of free porn.</summary>
       <description>Thousands of Free Streaming Porn videos! Updated every day. Lube Tube is the youtube of free porn.</description>
       <platform>all</platform>
+    </extension>
+  </addon>
+  <addon id="plugin.video.mega"
+	name="MEGA"
+	version="1.0.5"
+	provider-name="xbmchub.com">
+    <requires>
+      <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+      <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <summary lang="en">MEGA</summary>
+      <description lang="en">Stream videos, music and photos from your MEGA account</description>
+      <platform>all</platform>
+      <forum>http://www.xbmchub.com/forums/official-xbmc-hub-repo/</forum>
+      <website>http://www.xbmchub.com/</website>
     </extension>
   </addon>
   <addon id="plugin.video.movie25"
@@ -1891,6 +2240,55 @@
       <disclaimer>The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content providers.</disclaimer>
       <forum>http://www.xbmchub.com/forums/blazetamers-repository/17959-%5Brelease%5D-mdb-ultra-video-addon.html</forum>
       <website>http://www.cliqaddon.com/</website>
+      <platform>all</platform>
+    </extension>
+  </addon>
+  <addon id="plugin.video.newcrackle" version="0.1.3" name="Crackle" provider-name="t0mm0">
+    <requires>
+      <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+      <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <summary>Play movies and TV shows from Crackle.com</summary>
+      <description>Crackle is the place to experience pure entertainment: full-length movies, TV shows, and original series from genres that embody cool -- all uncut, uncensored, and unbelievably free. Well, that's what the PR waffle says anyway ;-)</description>
+      <platform>all</platform>
+    </extension>
+  </addon>
+  <addon id="plugin.video.newjerryseinfeld.com" version="0.1.1" name="Daily Seinfeld" provider-name="t0mm0">
+    <requires>
+      <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+      <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <summary>Jerry Seinfeld Personal Archives</summary>
+      <description>
+        When I was ten years old, I started watching stand up comedians on TV.
+        I fell in love with them and I'm just as fascinated with stand up comedy today.
+        When I started doing TV, I saved every appearance on every show I did.
+        I thought it might be fun to go through all of it and pick out three bits each day that still amuse me for some reason or another.
+        I've also included stuff I'm doing now, and I'll be adding new stuff as I go.
+        Somewhere out there are ten year olds just waiting to get hooked on this strange pursuit.
+        This is for them.
+        I'm just hoping somehow it will keep this silliness going.
+        JS
+      </description>
+      <platform>all</platform>
+    </extension>
+  </addon>
+  <addon id="plugin.video.newmuzu.tv" version="0.1.5" name="muzu.tv" provider-name="t0mm0">
+    <requires>
+      <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+      <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <summary>Plays music videos from ustvnow.com</summary>
+      <description>Choose from a huge selection of music videos available at muzu.tv</description>
       <platform>all</platform>
     </extension>
   </addon>
@@ -1956,6 +2354,26 @@
       </description>
       <platform>all</platform>
       <language>en</language>
+    </extension>
+  </addon>
+  <addon id="plugin.video.pelisalacarta"
+    name="pelisalacarta"
+    version="4.0.3"
+    provider-name="tvalacarta">
+    <requires>
+      <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+      <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <summary lang="es">Películas y series a la carta</summary>
+      <description lang="es">Películas, series, documentales, anime, ... todo lo que puedas encontrar en Internet ahora desde tu media center. Incluye canales en Español, Italiano, Inglés y Rumano.</description>
+      <summary lang="en">Movies and TV Shows on demand</summary>
+      <description lang="en">Movies, Series, Documentaries, Anime, ... everything you can find on Internet now on your media center. Includes channels in Spanish, Italian, English and Romanian.</description>
+      <platform>all</platform>
+    </extension>
+    <extension point="xbmc.service" library="library_service.py" start="login|startup">
     </extension>
   </addon>
   <addon id="plugin.video.projectfreetv"
@@ -2282,6 +2700,33 @@
       <description>Tube8.com features a variety of adult videos. This addon contains explicit adult material. You may only view this addon if you are at least 18 years of age, or at least the age of majority in the jurisdiction where you reside or from which you access this content. If you do not meet these requirements, then you do not have permission to use this addon.  All content is hosted by tube8.com.</description>
       <disclaimer>The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
       <platform>all</platform>
+    </extension>
+  </addon>
+  <addon id="plugin.video.tv.sme.sk"
+       name="TV SME.sk"
+       version="1.0.1"
+       provider-name="Radim Stoklasa">
+    <requires>
+      <import addon="xbmc.python" version="2.1.0"/>
+      <import addon="script.module.dmd-czech.common" version="1.5.5"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+      <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <platform>all</platform>
+      <summary>TV SME.sk video-archive plugin</summary>
+      <summary lang="sk">Internetová televízia SME.sk</summary>
+      <summary lang="cs">Internetová televize SME.sk</summary>
+      <description>
+        Plugin to play TV video archive tv.sme.sk
+      </description>
+      <description lang="cs">
+        Plugin pro přehrávání videí z archivu tv.sme.sk
+      </description>
+      <description lang="sk">
+        Plugin pre prehrávenie videí z archívu tv.sme.sk
+      </description>
     </extension>
   </addon>
   <addon id="plugin.video.ultimateguitar"
@@ -2798,20 +3243,21 @@
       <language></language>
     </extension>
   </addon>
-  <addon id="script.module.demjson"
-         name="demjson"
-         version="1.4"
-         provider-name="deron.meranda.us">
+  <addon id="script.module.demjson" name="demjson" version="2.2.3" provider-name="Kuci">
     <requires>
-      <import addon="xbmc.python" version="1.0"/>
+      <import addon="xbmc.python" version="2.1.0"/>
     </requires>
-    <extension point="xbmc.python.module"
-               library="lib" />
+    <extension point="xbmc.python.module" library="lib"/>
     <extension point="xbmc.addon.metadata">
+      <summary>Python module for JSON data encoding, including jsonlint.</summary>
+      <description>demjson is a Python language module for encoding, decoding, and syntax-checking JSON data.</description>
       <platform>all</platform>
+      <license>GNU LGPL 3.0</license>
+      <source>https://github.com/dmeranda/demjson.git</source>
+      <website>https://github.com/dmeranda/demjson</website>
     </extension>
   </addon>
-  <addon id="script.module.dmd-czech.common" name="dmd-czech common python modules" version="1.5.3" provider-name="Jiri Vyhnalek">
+  <addon id="script.module.dmd-czech.common" name="dmd-czech common python modules" version="1.5.8" provider-name="Jiri Vyhnalek">
     <requires>
       <import addon="xbmc.python" version="2.1.0" />
     </requires>
@@ -3120,6 +3566,23 @@
       <website>https://github.com/martinblech/xmltodict</website>
       <source>https://github.com/martinblech/xmltodict</source>
       <forum></forum>
+    </extension>
+  </addon>
+  <addon id="script.video.newparentalcontrols" name="Parental Controls" version="1.5.4" provider-name="killdash9">
+    <requires>
+      <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.script" library="resources/lib/parentalcontrols/settings.py">
+      <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.service" library="resources/lib/parentalcontrols/service.py" start="login">
+    </extension>
+    <extension point="xbmc.python.module"
+               library="resources/lib" />
+    <extension point="xbmc.addon.metadata">
+      <summary lang="en">Parental Controls</summary>
+      <description lang="en">A parental controls addon.  Works only with sources that provide ratings such as HULU.</description>
+      <platform>all</platform>
     </extension>
   </addon>
   <addon id="script.xbmc.pandorajson"

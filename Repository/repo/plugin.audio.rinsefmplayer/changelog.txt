@@ -1,0 +1,23 @@
+[B]Version 1.0.9[/B]
+- fixed podcasts
+
+[B]Version 1.0.8[/B]
+- fixed podcasts
+
+[B]Version 1.0.7[/B]
+- small fix
+[COLOR gold][B]** If using Gotham please play using DVDPlayer in the context menu untill PAPlayer is fixed by XBMC !! **[/B][/COLOR]
+
+[B]Version 1.0.6[/B]
+- fixed dates of shows 
+[COLOR gold][B]** If using Gotham please play using DVDPlayer in the context menu untill PAPlayer is fixed by XBMC !! **[/B][/COLOR]
+
+[B]Version 1.0.5[/B]
+- fixed dates of shows 
+[COLOR gold][B]** If using Gotham please play using DVDPlayer in the context menu untill PAPlayer is fixed by XBMC !! **[/B][/COLOR]
+
+[B]Version 1.0.4[/B]
+- fixed
+
+[B]Version 1.0.2[/B]
+- Initial version of rinsefmplayer

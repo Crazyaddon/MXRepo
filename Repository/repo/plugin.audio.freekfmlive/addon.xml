@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<addon
+        id="plugin.audio.freekfmlive" 
+        name="Freek fm live" 
+        version="1.0.0" 
+        provider-name="@TheYid009">
+		<requires>
+			<import addon="xbmc.python"             	version="2.1.0"/>
+			<import addon="xbmc.addon"              	version="12.1.0"/>
+		</requires>
+		<extension point="xbmc.python.pluginsource" library="default.py">
+			<provides>audio</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">Welcome to the original House and Garage fire starter from the dayz of old (Live Audio, video radio streaming)</summary>
+			<description lang="en">Welcome to the original House and Garage fire starter from the dayz of old. Back in 2012 on www.freekfmlive.com , www.freekfm.net Keeping true to what we do best playing classic and new house N garage and all the popular dance music. Freek FM was est. in the early 90s, stacking up award after award for the best radio network in the world of house n garage. Boasting the best of the best and the rising stars in the UKG scene.[CR] The first transmission was Dj Timmi Magic, Operator and Lennie-de-ice. During this time the sky held no limits to what Freek could achieve. The popularity grew so strong to which other members joined on and the weekly events started in north london called BACK TO THE MANOR, With freek members TIMMI MAGIC, DJ EZ, OPERATOR, THE VETERAN MADDNESS, SPECIAL K, DJ TOUCH, RAMSEY N FEN, DJ CLIPPER, JAZZY D, BARNSEY, BADGER B... and more.</description>
+			<disclaimer lang="en">All streams and content is owned by freekfmlive...</disclaimer>
+			<platform>all</platform>
+			<license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
+			<language>en</language>
+			<forum>www.xbmchub.com</forum>
+			<website>www.freekfmlive.com</website>
+			<email>@ThYid009</email>
+			<source>www.freekfmlive.com</source>
+		</extension>
+	</addon>

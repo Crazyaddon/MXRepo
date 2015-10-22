@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<addon
+        id="plugin.audio.ts5player" 
+        name="TS5 player (Capital XTRA)" 
+        version="1.1.8" 
+        provider-name="@TheYid009">
+		<requires>
+			<import addon="xbmc.python"             	version="2.1.0"/>
+			<import addon="xbmc.addon"              	version="12.1.0"/>
+                     <import addon="script.module.TheYid.common" version="0.1.1"/>
+                     <import addon="repository.entertainmentrepo" version="1.0"/>
+		</requires>
+		<extension point="xbmc.python.pluginsource" library="default.py">
+			<provides>audio</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">TS5 player</summary>
+			<description lang="en">Craig David PRESENTS TS5 LIVE FROM MIAMI EVERY FRIDAY AT 10PM ONLY ON CAPITAL XTRA live and on demand</description>
+			<disclaimer lang="en">All streams and content is owned by Capital XTRA...</disclaimer>
+			<platform>all</platform>
+			<license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
+			<language>en</language>
+			<forum>www.xbmchub.com</forum>
+			<website>http://www.capitalxtra.com/</website>
+			<email>@ThYid009</email>
+			<source>http://www.capitalxtra.com/</source>
+		</extension>
+	</addon>
