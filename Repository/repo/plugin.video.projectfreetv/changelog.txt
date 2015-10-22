@@ -1,3 +1,16 @@
+[B]v2.4.0 (Monday, 18 August 2015):[/B]
+  - Updated to use layout of project-free-tv.sx
+
+[B]v2.3.0 (Friday, 19 June 2015):[/B]
+  - Add check on tv shows to ensure url starts with http
+  - Fix seasons that have multiple 'special' seasons
+
+[B]v2.2.3 (Wednesday, 11 March 2015):[/B]
+  - Correct regex for grabbing source media id
+  
+[B]v2.2.2 (Monday, 15 Dec 2014):[/B]
+  - Small bug fix for allowing proper subtitles/trakt for tv episodes
+
 [B]v2.2.1 (Friday, 09 May 2014):[/B]
   - Python vesion bump for Gotham
 

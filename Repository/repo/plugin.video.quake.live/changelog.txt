@@ -1,3 +1,12 @@
+[B]Version 2.0.0[/B] 2015-02-20
+- Removed set_content call
+- Removed download support
+- Removed xbmcutil.cleanup try finally catch
+- Removed unneeded set_sort_methods
+- Change to return a generator instead of a list
+- Changed settings.xml to use new methods for setting view mode
+- Some small method renames
+
 [B]Version 1.0.2[/B] 2014-06-30
 - Updated Fanart Image, Thanks Soulmarin
 - Update Strings to strings.po
