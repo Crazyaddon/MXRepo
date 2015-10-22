@@ -1314,6 +1314,20 @@
       <platform>all</platform>
     </extension>
   </addon>
+  <addon id="plugin.video.empflix" name="Empflix" version="2.0.8" provider-name="xbmc-adult">
+    <requires>
+      <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+      <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <summary>Stream adult videos from empflix.com</summary>
+      <description>Empflix.com features a variety of adult videos. This addon contains explicit adult material. You may only view this addon if you are at least 18 years of age, or at least the age of majority in the jurisdiction where you reside or from which you access this content. If you do not meet these requirements, then you do not have permission to use this addon.  All content is hosted by empflix.com.</description>
+      <disclaimer>The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
+      <platform>all</platform>
+    </extension>
+  </addon>
   <addon id="plugin.video.engineeringtv" name="Engineering TV" provider-name="willforde" version="2.0.0">
     <requires>
       <import addon="xbmc.python" version="2.19.0"/>
@@ -1352,6 +1366,25 @@
       <platform>all</platform>
       <summary>Free to view live streaming</summary>
       <description>Stream Live TV from FilmOn or watch cartoons and movies in the Cartoons and more section. Add movies to library or download.</description>
+    </extension>
+  </addon>
+  <addon id="plugin.video.fantasticc"
+       name="Fantasti.cc"
+       version="2.3.22"
+       provider-name="xbmc-adult">
+    <requires>
+      <import addon="xbmc.python" version="2.1.0"/>
+      <import addon="script.module.pil"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource"
+               library="default.py">
+      <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <platform>all</platform>
+      <license>GPL 2.0</license>
+      <summary lang="en">Fantasti.cc -  Browse videos from a site that aggregates the best porn videos online using the votes of users as the deciding factor</summary>
+      <description lang="en">Browse collections (user designed categories) as well as the most popular videos today/week/month as decided by the users of the site</description>
     </extension>
   </addon>
   <addon id="plugin.video.filmontv" name="FilmOn" version="1.4" provider-name="FilmOn.TV Networks Inc">
@@ -1798,6 +1831,23 @@
       <description>Browse and stream videos from The Joe Rogan Experience Podcast</description>
     </extension>
   </addon>
+  <addon id="plugin.video.lubetube"
+       name="Lubetube (Adult)"
+       version="1.16"
+       provider-name="xbmc-adult">
+    <requires>
+      <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource"
+              library="default.py">
+      <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <summary>Thousands of Free Streaming Porn videos! Updated every day. Lube Tube is the youtube of free porn.</summary>
+      <description>Thousands of Free Streaming Porn videos! Updated every day. Lube Tube is the youtube of free porn.</description>
+      <platform>all</platform>
+    </extension>
+  </addon>
   <addon id="plugin.video.movie25"
          name="Mash Up"
          version="1.4.0"
@@ -2220,6 +2270,20 @@
       <email>stacked.xbmc@gmail.com</email>
     </extension>
   </addon>
+  <addon id="plugin.video.tube8" name="Tube8" version="2.1.8" provider-name="xbmc-adult">
+    <requires>
+      <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+      <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <summary>Stream adult videos from tube8.com</summary>
+      <description>Tube8.com features a variety of adult videos. This addon contains explicit adult material. You may only view this addon if you are at least 18 years of age, or at least the age of majority in the jurisdiction where you reside or from which you access this content. If you do not meet these requirements, then you do not have permission to use this addon.  All content is hosted by tube8.com.</description>
+      <disclaimer>The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
+      <platform>all</platform>
+    </extension>
+  </addon>
   <addon id="plugin.video.ultimateguitar"
          name="Ultimate Guitar"
          version="1.0.3"
@@ -2314,6 +2378,26 @@
       <website>http://www.tvaddons.ag/</website>
     </extension>
   </addon>
+  <addon
+  id="plugin.video.videodevil"
+  version="1.7.118"
+  name="VideoDevil"
+  provider-name="xbmc-adult">
+    <requires>
+      <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension
+      point="xbmc.python.pluginsource"
+      library="default.py">
+      <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <summary>Play videos from different adult streaming sites</summary>
+      <description>This addon plays videos from YouPorn, Tube8, Boysfood, MoviesAnd, PornoTube, xHamster, KeezMovies and some other adult streaming sites. It contains explicit adult material. You may only view this addon if you are at least 18 years of age, or at least the age of majority in the jurisdiction where you reside or from which you access this content. If you do not meet these requirements, then you do not have permission to use this addon.</description>
+      <disclaimer>The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
+      <platform>all</platform>
+    </extension>
+  </addon>
   <addon id="plugin.video.wsj"
          name="The Wall Street Journal Live"
          version="1.9.4"
@@ -2355,6 +2439,50 @@
       <platform>all</platform>
       <forum>http://forums.tvaddons.ag/forums/130-MAINTENANCE-TOOL</forum>
       <website>http://www.tvaddons.ag/</website>
+    </extension>
+  </addon>
+  <addon id="plugin.video.xhamstergay" name="xHamster Gay" version="0.2" provider-name="xbmc-adult">
+    <requires>
+      <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+      <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <summary lang="en">Free Gays Porn Videos</summary>
+      <description lang="en">Free Gays Porn Videos from xhamster.com</description>
+      <platform>all</platform>
+    </extension>
+  </addon>
+  <addon id="plugin.video.you.jizz"
+         name="YouJizz.com"
+         version="1.0.10"
+         provider-name="xbmc-adult">
+    <requires>
+      <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource"
+               library="default.py">
+      <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <platform>all</platform>
+      <license>GPL 2.0</license>
+      <summary lang="en">YouJizz.com</summary>
+      <description lang="en">****ADULT CONTENT***** Watch erotic and sexy videos from YouJizz.com</description>
+    </extension>
+  </addon>
+  <addon id="plugin.video.youporngay" name="Youporn Gay" version="0.3" provider-name="xbmc-adult">
+    <requires>
+      <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+      <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <summary lang="en">Free Gay Porn Movies from youporn.com</summary>
+      <description lang="en">VISIT Youporn for the BEST GAY PORN MOVIES! GET the sexiest TEEN BOYS Tube and ENJOY Huge Cock Sucking VIDEOS. CLICK NOW to WATCH Hot YOUNG XXX Gay Vidz!</description>
+      <platform>all</platform>
     </extension>
   </addon>
   <addon id="plugin.video.youtube" name="YouTube" provider-name="TheCollective" version="4.4.10">
