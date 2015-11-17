@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.theyidrh" version="2.2.2" name="Release [COLOR firebrick][B]HUB[/B][/COLOR]" provider-name="Mr Entertainment">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.TheYid.common" version="0.1.1"/>
+        <import addon="script.module.urlresolver"  version="2.0.9"/>
+        <import addon="script.module.simplejson" version="3.3.0"/>
+        <import addon="repository.entertainmentrepo" version="1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Release [B][I][COLOR dodgerblue]HUB[/COLOR][/B][/I]</summary>
+        <description>Stream Tv shows movies Release [B][I][COLOR dodgerblue]HUB[/COLOR][/B][/I] has 16+ scene release sites all in one addon.... sceper, scene source, 2ddl, ReleaseBB, DDlvalley + many more in this [COLOR lime][B]SUPER ADDON[/B][/COLOR] [COLOR red][B][I]YOU will need a real-debrid premium account to get the best hosts and most links[/B][/I][/COLOR]</description>
+        <platform>all</platform>
+        <disclaimer lang="en">[COLOR red][B][I] Mr Entertainment [/B][/I][/COLOR]</disclaimer>
+    </extension>
+</addon>
+

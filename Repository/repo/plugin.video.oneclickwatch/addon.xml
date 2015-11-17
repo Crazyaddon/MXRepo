@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.oneclickwatch" version="1.4.8" name="[B]OCW[/B] [COLOR lemonchiffon]Reborn[/COLOR]" provider-name="Mr Entertainment">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.TheYid.common" version="0.1.1"/>
+        <import addon="script.module.urlresolver"  version="2.0.9"/>
+        <import addon="script.module.simplejson" version="3.3.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>OCW Reborn [COLOR blue][B]THE ORIGINAL[/B][/COLOR] for all scene releases lovers free on demand streaming</summary>
+        <description>Stream a wide selection of scene release Movies Tv shows and Sport from OCW Reborn always first with new + old releases</description>
+        <platform>all</platform>
+        <disclaimer lang="en"></disclaimer>
+    </extension>
+</addon>

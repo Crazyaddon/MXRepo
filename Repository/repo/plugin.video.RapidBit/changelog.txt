@@ -1,0 +1,7 @@
+[B]Version 0.0.2[/B]
+- Test version of RapidBit
+- watch out for RAR files this is a release site
+
+[B]Version 0.0.1[/B]
+- Test version of RapidBit
+- watch out for RAR files this is a release site

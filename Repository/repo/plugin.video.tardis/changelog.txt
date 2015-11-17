@@ -1,0 +1,20 @@
+[B]Version 0.0.7[/B]
+- added tvonline check at bottem on eps
+- code clean up
+
+[B]Version 0.0.6[/B]
+- fixed uptobox links
+
+[B]Version 0.0.5[/B]
+- added some bits
+
+[B]Version 0.0.4[/B]
+- fixed direct link
+- added more fanart
+
+[B]Version 0.0.2[/B]
+- fixed uptostream links
+- fixed direct link
+
+[B]Version 0.0.1[/B]
+- Initial version 

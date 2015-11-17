@@ -1,0 +1,226 @@
+[B]Version 1.4.8[/B]
+- temp tix
+
+[B]Version 1.4.7[/B]
+- fixed A to Z ocw links
+
+[B]Version 1.4.6[/B]
+- fixed search
+
+[B]Version 1.4.5[/B]
+*OCW Reborn its a new beginning* (TV Calendar and index searches are still in beta)
+- fixed url myvideolinks
+
+[B]Version 1.4.4[/B]
+*OCW Reborn its a new beginning* (TV Calendar and index searches are still in beta)
+- fixed uptobox links
+
+[B]Version 1.4.2[/B]
+*OCW Reborn its a new beginning* (TV Calendar and index searches are still in beta)
+- clean up
+
+[B]Version 1.4.1[/B]
+*OCW Reborn its a new beginning* (TV Calendar and index searches are still in beta)
+- clean up
+
+[B]Version 1.4.0[/B]
+*OCW Reborn its a new beginning* (TV Calendar and index searches are still in beta)
+- clean up
+
+[B]Version 1.2.9[/B]
+*OCW Reborn its a new beginning* (TV Calendar and index searches are still in beta)
+- clean up
+
+[B]Version 1.2.8[/B]
+*OCW Reborn its a new beginning* (TV Calendar and index searches are still in beta)
+- added some more sitse to TV Calendar and index searches
+
+[B]Version 1.2.7[/B]
+*OCW Reborn its a new beginning* (TV Calendar and index searches are still in beta)
+- code & site changes 
+
+[B]Version 1.2.6[/B]
+*OCW Reborn its a new beginning* (TV Calendar and index searches are still in beta)
+- code & fixes 
+
+[B]Version 1.2.5[/B]
+*OCW Reborn its a new beginning* (TV Calendar and index searches are still in beta)
+- change tv genres site
+- more links in TV Calendar
+
+
+[B]Version 1.2.4[/B]
+*OCW Reborn its a new beginning* (TV Calendar and index searches are still in beta)
+- small fixes
+
+[B]Version 1.2.2[/B]
+*OCW Reborn its a new beginning* (TV Calendar and index searches are still in beta)
+- added tv genres index for full seasons in beta
+- more sport added to A/Z
+
+[B]Version 1.2.1[/B]
+*OCW Reborn its a new beginning* (TV Calendar and index searches are still in beta)
+- some new fanart in tvshows and movies
+
+[B]Version 1.2.0[/B]
+*OCW Reborn its a new beginning* (TV Calendar and index searches are still in beta)
+- code clean up
+- loads of code changes
+- added next page to search results
+- changed movies backup site from now movies to prime links
+
+[B]Version 1.1.6[/B]
+*OCW Reborn its a new beginning* (TV Calendar and index searches are still in beta)
+- code clean up
+
+[B]Version 1.1.5[/B]
+*OCW Reborn its a new beginning* (TV Calendar and index searches are still in beta)
+- code clean up
+
+[B]Version 1.1.4[/B]
+*OCW Reborn its a new beginning* (TV Calendar and index searches are still in beta)
+- code clean up
+- changed a/z search works better now
+- fixed more tv shows in TV Calendar 
+
+[B]Version 1.1.2[/B]
+*OCW Reborn its a new beginning* (TV Calendar and index searches are still in beta)
+- code clean up
+- added a better search
+- tv chat shows not working via TV Calendar
+- fixed more tv shows in TV Calendar 
+- changed a/z search
+
+[B]Version 1.1.1[/B]
+*OCW Reborn its a new beginning* (TV Calendar and index searches are still in beta)
+- code clean up
+
+[B]Version 1.1.0[/B]
+*OCW Reborn its a new beginning* (TV Calendar and index searches are still in beta)
+- code clean up
+- fixed tv index search next page not showing results
+- added 2 fullback sites in movie search
+- added a footy search
+
+[B]Version 1.0.8[/B]
+*OCW Reborn its a new beginning* (TV Calendar and index searches are still in beta)
+- new tv show a/z index
+- code clean up
+
+[B]Version 1.0.7[/B]
+*OCW Reborn its a new beginning*
+- added 2 fullback sites in Calendar search
+- added summary in TV Calendar
+- TV Calendar and index searches are still in beta
+
+[B]Version 1.0.6[/B]
+- OCW Reborn its a new beginning
+- fix for 1.0.5
+
+[B]Version 1.0.5[/B]
+- OCW Reborn its a new beginning
+- temp fix for first day TV Calendar 
+- added icon for TV Calendar
+
+[B]Version 1.0.4[/B]
+- OCW Reborn its a new beginning
+- added TV Calendar 
+
+[B]Version 1.0.2[/B]
+- OCW Reborn its a new beginning
+- added box office movies index search 
+
+[B]Version 1.0.1[/B]
+- OCW Reborn its a new beginning
+- added watchseries-onlines.ch to tv index search
+- code changes
+- added 300mbmovies4u to movie index search 
+
+[B]Version 1.0.0[/B]
+- OCW Reborn its a new beginning
+- new tv index search
+- new art work
+
+[B]Version 0.8.0[/B]
+- new index searches
+
+[B]Version 0.7.8[/B]
+- testing new search
+
+[B]Version 0.7.7[/B]
+- fixed search
+
+[B]Version 0.7.6[/B]
+- new fanart
+
+[B]Version 0.7.5[/B]
+- new fanart
+
+[B]Version 0.7.4[/B]
+- fix update
+
+[B]Version 0.7.2[/B]
+- now with back up search
+
+[B]Version 0.7.1[/B]
+- fixed tv shows and movies
+
+[B]Version 0.7.0[/B]
+- oneclickwatch back for now 
+
+[B]Version 0.6.9[/B]
+- changes to the site
+
+[B]Version 0.6.8[/B]
+- fixed changes to the site
+
+[B]Version 0.6.7[/B]
+- fixed img no showing up
+
+[B]Version 0.6.6[/B]
+- fixed img no showing up
+
+[B]Version 0.6.5[/B]
+- fixed img no showing up
+
+[B]Version 0.6.4[/B]
+- Kodi Helix 14 ready all thanks go out to Poegloom for the fix
+
+[B]Version 0.6.2[/B]
+- test fix
+
+[B]Version 0.6.1[/B]
+- test fix
+
+[B]Version 0.6.0[/B]
+- fix
+
+[B]Version 0.5.9[/B]
+- clean up
+
+[B]Version 0.5.8[/B]
+- clean up
+
+[B]Version 0.5.7[/B]
+- fixed the addon
+
+[B]Version 0.5.6[/B]
+- code clean up
+
+[B]Version 0.5.5[/B]
+- code clean up
+
+[B]Version 0.5.4[/B]
+- code clean up
+
+[B]Version 0.5.3[/B]
+- clean up
+
+[B]Version 0.5.2[/B]
+- addon clean up
+
+[B]Version 0.5.1[/B]
+- addon clean up
+
+[B]Version 0.5.0[/B]
+- Initial version of oneclickwatch plugin v5

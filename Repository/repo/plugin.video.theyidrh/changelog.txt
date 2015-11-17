@@ -1,0 +1,275 @@
+[B]Version 2.2.2[/B]
+- fix
+
+[B]Version 2.2.1[/B]
+- removed tv rls
+
+[B]Version 2.2.0[/B]
+- fixes
+
+[B]Version 1.9.9[/B]
+- fixed episodes-tv search index
+
+[B]Version 1.9.8[/B]
+- fixed rlslog 
+
+[B]Version 1.9.7[/B]
+- fixed scnlog hot showing any links in search
+
+[B]Version 1.9.6[/B]
+- code clean up
+
+[B]Version 1.9.5[/B]
+- code clean up
+- updated TV Calendar index search but still in beta
+- updated tv a/z search
+
+[B]Version 1.9.4[/B]
+- code clean up
+- added TV Calendar index search but still in beta
+
+[B]Version 1.9.2[/B]
+- added TV Calendar index search but still in beta
+- added TV show a/z index search but still in beta
+
+[B]Version 1.9.1[/B]
+- 
+
+[B]Version 1.9.0[/B]
+- new index search
+- fixes to code
+
+[B]Version 1.8.4[/B]
+- fixes
+
+[B]Version 1.8.2[/B]
+- fixed Rlsblog
+
+[B]Version 1.8.0[/B]
+- some fixes 
+- new icon and fanart
+
+[B]Version 1.7.9[/B] 11/6/15
+- some fixes 
+- new icon and fanart
+
+
+[B]Version 1.7.8[/B] 4/5/15
+- DXTV is back in sport
+- fixed rlsblog
+- Index searches fixed
+-
+
+[B]Version 1.7.7[/B]
+- added freesharelink in sport for all the latest Wrestling MMA & Boxing  
+
+[B]Version 1.7.6[/B]
+- fixed Rlsblog
+- removed DXTV in sports
+- added uptwo to sports search
+
+[B]Version 1.7.5[/B]
+- 
+
+[B]Version 1.7.4[/B]
+- testing new tv index search
+
+[B]Version 1.7.2[/B]
+- addon clean up
+
+[B]Version 1.7.1[/B]
+- fixed Dx-tv
+
+[B]Version 1.7.0[/B]
+- new site in search ReleaseFree
+- added uptwo to tv shows
+- added 0dayreleases to tv shows & movies
+
+[B]Version 1.6.9[/B]
+- fixed rlsbb search
+- removed 300mblinks
+
+[B]Version 1.6.8[/B]
+- fixed
+- 300mbmovies4u
+- index search
+
+[B]Version 1.6.7[/B]
+- small fixes
+
+[B]Version 1.6.6[/B]
+- small fixes
+
+[B]Version 1.6.5[/B]
+- scene source url changer in settings
+- added discovery360.net
+- added music
+- added israbox to music
+
+[B]Version 1.6.4[/B]
+- search will continue if a site in the list is down
+- fixed 300mbmovies4u
+- added 300mblinks site
+
+[B]Version 1.6.2[/B]
+- small fix
+
+[B]Version 1.6.1[/B]
+- fixed ddl2 movies and sport
+
+[B]Version 1.6.0[/B]
+- fixed dx-tv.com 
+- added ddl2 movies and sport
+
+[B]Version 1.5.9[/B]
+- code clean up
+- fixed rlstv
+- added tvshows-hdtv index search
+
+[B]Version 1.5.8[/B]
+- more 1080p tv show links in search
+- added 2ddl to tv shows
+- fixed searches 
+
+[B]Version 1.5.7[/B]
+- small fix
+
+[B]Version 1.5.6[/B]
+- New index search
+
+[B]Version 1.5.5[/B]
+- code clean up
+- check in news and help, this addon has been out 1 year and is still going strong 
+
+[B]Version 1.5.4[/B]
+- added 2ddl.link to search
+
+[B]Version 1.5.1[/B]2ddl.link
+- Release1click is back
+
+[B]Version 1.5.0[/B]
+- Kodi Helix 14 ready all thanks go out to Poegloom for the fix 
+
+[B]Version 1.4.9[/B]
+- removed OCW from searches
+
+[B]Version 1.4.8[/B]
+- added moviedetector in movie search great for 1080p and removed fullxtreme.net to many rar
+
+[B]Version 1.4.7[/B]
+- added fullxtreme.net in movie search great for 1080p
+
+
+[B]Version 1.4.6[/B]
+- fixes 
+
+[B]Version 1.4.5[/B]
+- added more searches
+
+[B]Version 1.4.4[/B]
+- fixed 
+* scnrls
+- added
+* new fanart
+
+[B]Version 1.4.2[/B]
+- added new site
+- icons clean out
+- some small fixes
+
+[B]Version 1.4.1[/B]
+- code clean up & fixes
+
+[B]Version 1.4.0[/B]
+- code clean up
+- fixed scnlog.eu
+- fixed irweb-dl.com tv
+- removed sites not working
+
+[B]Version 1.2.9[/B]
+- code clean up
+
+[B]Version 1.2.8[/B]
+- removed www.wrzko.eu site got taken down
+
+[B]Version 1.2.7[/B]
+- fixed irweb-dl.com
+
+[B]Version 1.2.6[/B]
+- small fix
+
+[B]Version 1.2.5[/B]
+- added filetube to search
+
+[B]Version 1.2.4[/B]
+- clean up and fixes
+
+[B]Version 1.2.2[/B]
+- clean up and fixes
+
+[B]Version 1.2.1[/B]
+- more index searches added
+- more sites added to search
+- some new art work for searches
+
+[B]Version 1.2.0[/B]
+- new help vids
+
+[B]Version 1.1.9[/B]
+- more work on the search
+
+B]Version 1.1.8[/B]
+- tv show index search
+
+[B]Version 1.1.7[/B]
+- small fix
+
+[B]Version 1.1.6[/B]
+- new box office index search
+
+[B]Version 1.1.5[/B]
+- fixes and addno clean up
+
+[B]Version 1.1.4[/B]
+- fixes 
+
+[B]Version 1.1.2[/B]
+- fixes 
+
+[B]Version 1.1.1[/B]
+- fixes to searches
+
+[B]Version 1.1.0[/B]
+- Mega search (BETA)
+- Release search (BETA)
+- added dx-tv.com
+- updated icon
+- fixes and code clean up
+
+[B]Version 1.0.7[/B]
+- added binflix more 1080p
+
+[B]Version 1.0.6[/B]
+- small fixes
+* rls tv fixed
+
+[B]Version 1.0.5[/B]
+- added 
+* irweb-dl 1080p tv shows and movies
+
+[B]Version 1.0.4[/B]
+- added 
+* Rls1Click
+
+[B]Version 1.0.2[/B]
+- added 
+* TheYids news
+* movie4download
+
+[B]Version 1.0.1[/B]
+- clean code
+
+[B]Version 1.0.0[/B]
+- Full Release of [COLOR dodgerblue][B]HUB[/B][/COLOR] v-1.0.0
+
+

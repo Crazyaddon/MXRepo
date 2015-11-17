@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.tardis" version="0.0.7" name="TARDIS" provider-name="Mr Entertainment">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.TheYid.common" version="0.1.1"/>
+        <import addon="script.module.urlresolver"  version="2.0.9"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Doctor Who All Seasons and Episodes 1963 to 2015</summary>
+        <description>An eccentric yet compassionate extraterrestrial Time Lord zips through time and space to solve problems and battle injustice across the universe travelling via the TARDIS Time and Relative Dimensions in Space which is his old and occasionally unreliable spaceship that resembles a blue police phone box but changes its appearance depending on its surroundings and is much much larger inside than outside</description>
+        <platform>all</platform>
+        <disclaimer lang="en"></disclaimer>
+    </extension>
+</addon>
