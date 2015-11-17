@@ -1,0 +1,20 @@
+1.0.8
+Fixed youtube channels
+
+1.0.5
+Added Pearl Pam Radio
+
+1.0.4
+Added offial Pearl Jam YouTube channel
+
+1.0.3
+Gotham compatible
+
+1.0.2
+Fixed pearljamlive.com sources
+
+1.0.1
+Added pearljambootlegs.org sources
+
+1.0.0
+First release!

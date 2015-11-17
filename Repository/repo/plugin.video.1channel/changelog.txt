@@ -1,3 +1,124 @@
+[B]Version 2.5.64[/B]
+Various bug fixes when metadata is off
+
+[B]Version 2.5.63[/B]
+- Add Firestorm Theme
+
+[B]Version 2.5.62[/B]
+- Fix urls that start with //
+- Set playlists to default view
+- Fix playlist images
+
+[B]Version 2.5.61[/B]
+- Fix url update to work on all versions of sqlite
+
+[B]Version 2.5.59[/B]
+- Add new filter for promo hosts
+- Fix new PW urls to match old ones
+- Improve host header parsing
+
+[B]Version 2.5.58[/B]
+- Added PW Schedule to TV Section
+- Removed PREPARE_ZIP from metahandlers
+- Allow more chars into filename
+
+[B]Version 2.5.57[/B]
+- Fix User Agent string
+- Make season.contents a blob
+- Fix set default view
+
+[B]Version 2.5.56[/B]
+- Fix login for pw site changes
+- Fix utf-8 in pages with mysql
+
+[B]Version 2.5.55[/B]
+- Fix browse by genre defaulting to alphabetic
+- add dialog background to project
+- Add better algorithm to get DBID (thanks jhavens)
+- Fix script error on empty searches
+- Make empty searches cancel search
+- Update code for season page change
+- Add optional axel downloader import
+- Improve unicode conversions for PW site to avoid occasional errors
+
+[B]Version 2.5.2[/B]
+[B]Major[/B]
+Added PW playlists functionality:
+- ***Note: Personal playlists are only available when Website Integration is turned on***
+- Browse public & personal playlists
+- Play media from public & personal playlists
+- Add and Remove items from personal playlists
+- Specify a personal PW playlist as the source for subscriptions
+Rewrote subscription days function to be more usable and actually provide a meaningful function (i.e. the days of the week a subscription should be run on)
+Add a performance option to allow users to selectively paginate most result sets.
+Added ability to export and import the onechannel db to and from a csv file.
+Added function to schedule a db export to serve as a scheduled onechannel DB backup
+Rewrote the DB upgrade code such that db's on each addon version should be more consistent.
+Added function to browse and set PW's watched list
+Added function to browse and set PW's ToWatch list
+Added option for the ToWatch list to serve as a movie subscription list (i.e. added to the user's library)
+Added a context menu option on playable items to manually select a source when auto-play is turned on.
+Added [COLOR red]EXPERIMENTAL[/COLOR] support for Axel Download Accelerator.
+Moved themes to separate addon to reduce size of main addon (was 4.3MB; now 600K)
+
+[B]Minor[/B]
+Added ability to add most menu items to XBMC's favorites.
+More code unification/refactors to make the addon easier to maintain.
+Unified startup and scheduled task function to allow code sharing between all scheduled tasks
+Allow user to specify their first day of the week for schedule days presentation
+Dynamically pull genres from PW site (at most once every 24 hours)
+Replaced query parsing and massive if/elif statement with generic plugin url dispatcher
+Fixed PlayTrailer if trailer is using YouTube
+Add settings function to delete & recreate DB to make it easier for some people
+
+[B]Version 2.4.2[/B]
+[B]Minor[/B]
+Fixed problem with website favorites hanging XBMC when not logged in
+Worked around infinite redirect problem when logging into site 
+
+[B]Version 2.4.1[/B]
+[B]Minor[/B]
+Added retry on http requests to recover more gracefully from transient server errors (e.g. HTTP Error 503)
+
+[B]Version 2.4.0[/B]
+[B]Major[/B]
+Replaced resume code with code that works better and more consistently.
+Unified all website code in a single class for better maintainability
+Unified all DB code into a single class for better maintainability
+Added skin integration to allow skins to show 1CH movie categories on the home screen
+Replaced multiple advanced search keyboards with one search dialog with error checking
+Add function to add all local or web favorites to library with one click
+Add subscription update on start up option
+Reorganized settings dialog to be more logically grouped
+Add performance options including cached directory listings and unfiltered source dirs/dialogs
+Compressed the pngs in all the themes to reduce the size of the addon by over 50%.
+
+[B]Minor[/B]
+Fixed movies not playing from certain results sets (i.e. the ".." bug)
+Make source list only process once using auto-play
+Fixed occasional bug where video totalTime = 0
+Several fixes to uploading favorites to website
+Fixed "unplayable" error on update subscriptions
+Fixed genre and a-z icons not showing up
+Fixed website favorites to paginate to support lists larger than 40.
+
+[B]Version 2.3.0[/B]
+- Corrected bug in SQLite bookmarks table, improper index was being created
+- Fix duplicate bookmarks/resumes
+- Fix for native bookmarks/resumes
+- Fixed autoplay stopping when a link fails
+
+[B]Version 2.2.0[/B]
+- Code cleanup
+- Clean up source sorting
+- Fix trailers
+- Mark library items as watched (jded76 and lambda)
+- Use library meta when playing from a stream
+- Update resume dialog
+- Fix MySQL connection arguments
+- Changed MySQL column url_cache.response to a MEDIUMBLOB to handle larger pages
+- Switched from t0mm0.common to addon.common
+
 [B]Version 2.1.1[/B]
 - Bump python version to 2.1.0 for Gotham support - No longer works on Eden
 - Various small bug fixes

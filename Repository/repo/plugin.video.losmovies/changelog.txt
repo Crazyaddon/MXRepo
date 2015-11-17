@@ -1,0 +1,29 @@
+v0.1 - initial beta version
+v0.2 - .2 beta version
+v0.3 - fixed VK resolver
+v0.4 - added Search for movies
+v0.5 - added Tv-Show category
+v0.6 - fixed update to website, added Allmyvideo links
+v0.7 - Fixed search routine for site update
+v0.8 - Fixed encoding issues
+v0.9 - Fixed more encoding issues
+v1.0 - Release, removed universal modules
+v1.1 - Fixed Actors search
+v1.2 - Fixed TV - Latest list
+v1.3 - Fixed favorites and metadata for episodes
+v1.4 - Didnt move everything needed for v1.3
+v1.5 - Added HD sort and Collections
+v1.6 - Fixed TV Show A-Z list
+v1.7 - Updated metadata for Movies
+v1.8 - Fix for Droid and XBMC 13
+v1.9 - Linked Actors and Directors to context menu
+v1.10 - Added preferred quality setting
+v1.11 - Fixed settings.xml
+v1.12 - Code changes
+v1.13 - Fixed Favorites error
+v1.14 - Fixed Movies for site change
+v1.15 - Fixed TV Shows for site change
+v1.16 - Fixed file error
+v1.17 - Added new host
+v1.18 - Updated for site changes
+v1.19 - added custom URL option

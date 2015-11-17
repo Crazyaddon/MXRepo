@@ -1,0 +1,37 @@
+1.0.3
+Fixed Highlights
+Fixed 90 Minutes
+Fixed Match of the Day
+
+1.0.0
+Fixed News section
+Fixed Highlights
+Fixed 90 Minutes
+Fixed Match of the Day
+
+0.8.5
+Fixed 90 minute error
+
+0.8.4
+Added Match of the Day
+
+0.8.3
+Fixed 90 Minutes - All Teams/Competitions lists
+Added settings option to always hide/show highlight scores.
+
+0.8.2
+Fixed dailymotion links
+Added firedrive links
+
+0.8.1
+Fixed full match lists
+Added option to force SD for vk.com links (highlights)
+
+0.8.0
+Added prompt to hide scores for highlights
+
+0.7.6
+updated icon & fanart by tb4ll
+
+0.7.5
+Initial Release

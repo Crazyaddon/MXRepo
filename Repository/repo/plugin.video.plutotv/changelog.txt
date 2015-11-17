@@ -1,0 +1,18 @@
+1.0.1
+Fix list errors
+
+1.0.0
+Added YouTube fix
+Fixed channel listings
+Improved "Live TV" feel. Elapsed time now measured and playback starts at correct time in the schedule.
+
+0.5.2
+Fixed blank channels
+Added login (not required to play)
+
+0.5.1
+Fixed some playback errors on non youtube videos
+Some code tweaks.
+
+0.5.0
+Initial Release

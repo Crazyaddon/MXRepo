@@ -1,0 +1,24 @@
+[B]Version 0.0.6[/B]
+- Updated several themes
+- Updated Simply Elegant
+- Added IGDB Redux
+
+[B]Version 0.0.5[/B]
+- Add iconic icons
+- Add fanart to salty themes
+- Add Simply Elegant theme
+
+[B]Version 0.0.4[/B]
+- Add additional DK Themes
+- Update Iconic Images
+- Add IGDB Theme
+
+[B]Version 0.0.3[/B]
+- Added SALTy theme
+- Fix some images
+
+[B]Version 0.0.2[/B]
+- Added Simple Theme
+
+[B]Version 0.0.1[/B]
+Initial Version

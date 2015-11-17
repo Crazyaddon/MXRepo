@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.LauraVitalesKitchen"
+	name="Laura in the Kitchen"
+	version="1.0.8"
+	provider-name="tvaddons.ag">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Laura in the Kitchen</summary>
+    <description lang="en">Laura in the Kitchen is an interactive cooking show hosted by Laura Vitale. The show focuses on Italian cuisine, but viewers are very welcome to make requests. As you will see many of the recipes in the show are the result of audience requests</description>
+    <platform>all</platform>
+    <forum>http://forums.tvaddons.ag/forums/113-TVADDONS-AG-ADDON-REPOSITORY</forum>
+    <website>http://www.tvaddons.ag/</website>
+  </extension>
+</addon>

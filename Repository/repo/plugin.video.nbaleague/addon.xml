@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.nbaleague"
+       name="NBA League Pass"
+       version="0.8"
+       provider-name="ptsampoukas, robla and maxgalbu">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.common.plugin.cache" version="0.9.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="leaguepass.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>Watch NBA League Pass games.</summary>
+    <description>Features: Archive and condensed games for the NBA 2012 and 2013 seasons. Fanart and thumbnails. Requires a subscription to the International League Pass: http://www.nba.com/leaguepass/ </description>
+  </extension>
+</addon>

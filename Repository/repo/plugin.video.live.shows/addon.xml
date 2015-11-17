@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.live.shows"
+       name="LiveShows"
+       version="1.0.4"
+       provider-name="xbmchub.com">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.beautifulsoup" version="3.0.8"/>
+    <import addon="script.module.simplejson" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>liveshows</summary>
+    <description>Browse full concerts on Youtube from a pre-defined XML List. Send an email to thegreatboognish43@gmail.com if you would like to help build the list. Enjoy! **HUGE Thanks to everyone who tapes, records, edits and uploads these videos for everyone to enjoy!**</description>
+    <platform>all</platform>
+    <forum>http://www.xbmchub.com/forums/official-xbmc-hub-repo/</forum>
+    <website>http://www.xbmchub.com/</website>
+  </extension>
+</addon>

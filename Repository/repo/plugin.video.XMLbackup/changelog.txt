@@ -1,0 +1,8 @@
+1.0.2
+Added "*.list" files to backup
+
+1.0.1
+Changed reboot option. Windows will restart, other will reboot.
+
+1.0.0
+First release!

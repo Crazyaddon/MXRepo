@@ -1,0 +1,68 @@
+[B]TODO:[/B]
+- Fix issues command/function. Relogin(http and stream), ping servers, speed test available servers. Maybe per channel to check if channel works
+
+[B]ERRATA:[/B]
+- User-agent on RTMP streams causes XBMC deadlock
+
+[B]Version 0.8.528[/B]
+- Replace RTSP with HLS
+- Add useragent to HLS streams
+
+[B]Version 0.8.524[/B]
+- Gotham test
+
+[B]Version 0.8.500[/B]
+- Fallback login for starstreams
+- Implemented login API.
+- Changed server API to json for improved performance(rPI).
+- Combined loops to improve performance(rPI).
+
+[B]Version 0.8.0[/B]
+- New server URI schema
+- Change default server to EU
+- Optimizations for rPI
+- Print error on failed login.
+- Improved install counting.
+- Bugfixes
+- rPI fix: uncached 58.56s, cached 14.97s, uncached: 47:39, cached: 6.89
+- Update to XMLTV Format.
+- Dynamic schedule category list
+- Added MMA-TV / MyShout support
+- More optimizations for rPI.
+- Add US West server.
+
+[B]Version 0.7.0[/B]
+- rPI optimizations
+- New backend site starstreams.tv
+
+[B]Version 0.6.0[/B]
+- Re-enable geographical servers.
+
+[B]Version 0.5.0[/B]
+- New credential method.
+
+[B]Version 0.4.0[/B]
+- Server ping test in settings.
+- Remove existing authenticated ip.
+- Fetch (pre-limited) schedules from faster servers.
+- Timezone/DST fixes.
+- Improved fallback channel scraping.
+
+[B]Version 0.3.0[/B]
+- Default to production playback.
+- Testing
+- Cleanup
+
+[B]Version 0.2.0[/B]
+- Added login
+- Added common dependency and fallback (Disabled till update is pushed)
+- Added cache dependency and fallback
+- Added downloader for Eden
+- Added endtime to label for items for today
+- Cosmetic bug fixes
+- Set limit both before and after now for schedules in settings
+- Refactored into modules
+- Filter out duplicates schedule items
+- Match more start and end types(24h items now only show on correct day)
+- Show items scheduled for today on top of listing.
+- Auto timezone should work (Many thanks go out to "fog")

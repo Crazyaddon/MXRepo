@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.whatthefurk"
+       name="What the Furk"
+       version="2.0.3a"
+       provider-name="kinkin">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.t0mm0.common" version="1.1.0"/>
+        <import addon="script.module.metahandler"/>
+        <import addon="script.module.urlresolver"/>
+        <import addon="script.module.requests"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource"
+               	library="default.py">
+        <provides>audio video</provides>
+    </extension>
+    <extension point="xbmc.service"
+             	library="service.py" start="startup">
+	</extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary>Browse and stream videos and music from furk.net</summary>
+        <description>A complete furk.net addon. Browse, search download and manage your furk.net files.</description>
+    </extension>
+	
+</addon>

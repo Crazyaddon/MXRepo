@@ -1,3 +1,18 @@
+v 1.8.8.0 (17-Oct-14)
+------------------------------
+- Fix: iLive (thanks to L2501)
+- New: StreamHD in Sports TV
+- New: HitSports in Sports TV
+- Some minor fixes and catcher updates (thanks to L2501)
+
+------------------------------
+v 1.8.7.9 (29-Sep-14)
+------------------------------
+- New: Post data support (thanks to L2501)
+- Updated RojaDirecta (new url)
+- Some catcher updates (thanks to L2501 and Enen)
+
+------------------------------
 v 1.8.7.8 (20-Sep-14)
 ------------------------------
 - Updated CoolSports (new url)

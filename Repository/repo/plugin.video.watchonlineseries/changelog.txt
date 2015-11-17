@@ -1,0 +1,9 @@
+v0.1 - initial beta version
+v0.2 - Fixed site change for hoster links
+v0.3 - Updated metadata and option to enable fanart
+v0.4 - Updated metadata for new series added
+v0.5 - Updated for site change
+v0.6 - Added Search
+v0.7 - New artwork provided by Marquerite
+v0.8 - Fixed Artwork
+v0.9 - Gotham Ready

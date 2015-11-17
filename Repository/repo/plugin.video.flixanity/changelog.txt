@@ -1,0 +1,76 @@
+1.0.9
+Fixed links
+
+1.0.7
+Remove requirement for login
+
+1.06
+Fixed Links
+
+1.0.3
+Fixed links
+Fixed listings
+
+1.0.1
+Fixed episode listings
+
+1.0.0
+Fixed Subscriptions and library integration
+
+0.9.1
+Tweaks, fixes etc.
+
+0.9.0
+Added alternate base site
+
+0.8.9
+Fixed episode playback
+
+0.8.8
+Movies and most tv episodes fixed
+
+0.8.7
+Fixed TV Episode meta
+
+0.8.6
+Added HD and NEW flags
+Added sub menu to genres and HD Movies to sort by ABC, year etc.
+
+0.8.4
+Added parental controls
+
+0.8.3
+Fixed empty lists
+Fixed allmyvideos links
+
+0.8.2
+Fixed subscriptions (removed year from show title)
+Paginated TV Show results, limited to 50 per page
+Added full A-Z menus for Alphabetical TV Shows
+
+0.8.1a
+Code tweaks
+
+0.8.1
+Added year when meta enabled
+Another attempt at fixing unicode error
+
+0.8.0
+fixed unicode error when meta enabled
+Added download option to context menu
+
+0.7.9
+Fixed incorrect titles when meta is off
+
+0.7.8
+Added context option to view trailers
+Added Info to context menu
+
+0.7.7
+Fixed autoplay error
+
+0.7.6
+Removed next page for Box Office Movies
+
+0.7.5
+Initial Release

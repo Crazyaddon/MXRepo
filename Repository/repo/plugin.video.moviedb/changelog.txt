@@ -1,3 +1,37 @@
+3.0.5
+Code Cleanup  
+Removed iLive temporarily 
+
+V2.5.7
+Code Clean up and 
+NEW AutoUpdate Functions
+
+V2.5.6
+Return to Repo after Attack
+Fixed to many sources to name 
+Added Featured Playlist Makers
+
+V2.5.2
+Added VIP Playlist Sections
+
+V2.5.1
+iLive domain fix
+Fixed iLive Search
+Speed Fixes
+
+V2.5.0
+Auto Repo installer set up Complete to 
+avert failure to launch on Android Device 
+
+V2.4.7
+Reduced  Loading times for iLive Menus
+and added redundencies  
+
+
+V2.4.6
+ALL KINDS OF REPAIRS
+Testing new iLive playables
+
 V 2.4.4
 Quick Fix
 
