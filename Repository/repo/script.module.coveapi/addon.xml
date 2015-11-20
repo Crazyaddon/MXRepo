@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.module.coveapi"
+       name="Cove API"
+       version="0.2.2"
+       provider-name="PBS.org">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">PBS.org Cove-API</summary>
+    <description lang="en">Python-coveapi is the Python client for the PBS COVE API service.</description>
+    <disclaimer lang="en"></disclaimer>
+    <language>en</language>
+    <platform>all</platform>
+	<license>PBS API Terms of Service</license>
+    <forum>http://answers.open.pbs.org/questions/</forum>
+	<website>https://projects.pbs.org/confluence/display/coveapi/Welcome</website>
+	<email></email>
+	<source>https://github.com/pbs/python-coveapi</source>
+  </extension>
+</addon>

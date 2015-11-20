@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.audio.afl-radio" name="AFL Radio" version="0.4" provider-name="Andy Botting">
+	<requires>
+		<import addon="xbmc.python" version="1.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>audio</provides>
+	</extension>
+  <extension point="xbmc.addon.metadata" library="default.py">
+    <summary>AFL Radio by Andy Botting</summary>
+    <description>Listen to the best radio coverage from the AFL's official radio broadcasters right here, LIVE.</description>
+    <provides>audio</provides>
+    <platform>all</platform>
+    <license>GPL 3</license>
+  </extension>
+</addon>

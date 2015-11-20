@@ -1,0 +1,7 @@
+version 0.0.5
+
+  * empty database
+
+version 0.0.4
+
+  * initial release of FREE CABLE database

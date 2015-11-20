@@ -1,0 +1,9 @@
+version 0.5.3
+
+  * Added positioning support
+  * Created documentation
+
+
+version 0.5.1c1
+
+  * initial release

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.cinemay"
+	   name="Cinemay"
+	   version="1.0.3"
+	   provider-name="pcd@xtrend-alliance">
+  <requires>
+        <import addon="script.module.urlresolver" version="2.2.0"/>
+        <import addon="script.module.addon.common" version="2.0.0" />
+  </requires>	   
+  <extension point="xbmc.python.pluginsource"
+			 library="default.py">
+    	<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Movies and tv shows from www.cinemay.com</summary>
+    <description>Movies and tv shows from www.cinemay.com</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+
+
+
+
+

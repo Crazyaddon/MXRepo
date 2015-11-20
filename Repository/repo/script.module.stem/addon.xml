@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.module.stem"
+       name="stem"
+       version="1.4.1"
+       provider-name="zero">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Python controller library for tor network</summary>
+    <description lang="en">Stem is a Python controller library that allows applications to interact with Tor (https://www.torproject.org/).</description>
+    <disclaimer lang="en"></disclaimer>
+    <language>en</language>
+    <platform>all</platform>
+    <license>LGPLv3</license>
+    <forum>https://stem.torproject.org/faq.html</forum>
+    <website>https://stem.torproject.org/</website>
+	<email></email>
+	<source>https://pypi.python.org/pypi/stem</source>
+  </extension>
+</addon>

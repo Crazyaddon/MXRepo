@@ -1,0 +1,5 @@
+Version 0.1.2 fix service
+VErsion 0.1.1 fix magnets
+Version 0.1.0 new Coding
+Version 0.0.2 fix magnets
+Version 0.0.1 First version

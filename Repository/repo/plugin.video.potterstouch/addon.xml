@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.potterstouch"
+       name="The Potter's Touch"
+       version="1.0.0"
+       provider-name="RayW1986">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource"
+               	library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary>The Potter's Touch By Bishop T.D. Jakes</summary>
+        <description>The Potter's Touch, a weekly program, with Bishop T.D. Jakes, tackles today's topics and confronts the hidden issues and invisible scars that go untreated. This broadcast carries healing and restoration into homes of hurting people, unearthing taboo topics and offering practical and spiritual solutions to life's toughest questions.</description>
+    </extension>
+	
+</addon>

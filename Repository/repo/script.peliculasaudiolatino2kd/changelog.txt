@@ -1,0 +1,20 @@
+Version 1.0.6
+Arreglo numeración Series
+
+Version 1.0.5
+Activación de Servicio
+
+Version 1.0.4
+Series
+
+Version 1.0.3
+Busqueda manual y borrado peliculas y series
+
+Version 1.0.2
+Arreglo de paginas y errores al comienzo
+
+Version 1.0.1
+nuevo codigo de scraper
+
+Version 1.0.0
+Alpha version

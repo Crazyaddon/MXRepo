@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.module.free.cable.database"
+       name="Free Cable Database"
+       version="0.0.5"
+       provider-name="BlueCop">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">FREE Cable database</summary>
+    <summary lang="de">FREE Cable Datenbank</summary>
+    <description lang="en">Database necessary for working USTV VOD</description>
+    <description lang="de">Notwendige Datenbank für USTV VOD</description>
+    <disclaimer lang="en">Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing.</disclaimer>
+    <disclaimer lang="de">Einige Teile dieses Addons sind möglicherweise in Ihrem Land nicht legal - bitte prüfen Sie Ihre lokal gültigen Gesetze vor der Installation.</disclaimer>
+    <language>en de</language>
+    <platform>all</platform>
+	<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum>http://forum.xbmc.org/showthread.php?tid=166099</forum>
+	<website></website>
+	<email></email>
+	<source>https://github.com/moneymaker365/script.module.free.cable.database</source>
+  </extension>
+</addon>

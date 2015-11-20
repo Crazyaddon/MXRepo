@@ -1,0 +1,13 @@
+version 1.4.1
+
+  * update to latest version available at pypi.python.org
+  
+	Stem's 1.4 release brings with it new hidden service capabilities. 
+	Most notably, ephemeral hidden services and the ability to read hidden service descriptors.
+	This release also changes descriptor validation to now be opt-in rather than opt-out.
+	When unvalidated content is lazy-loaded, greatly improving our performance.
+	And last, Stem also now runs directly under both python2 and python3 without a 2to3 conversion (ticket 14075)!
+
+version 1.2.2
+
+  * initial release

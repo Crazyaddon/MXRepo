@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><addon id="script.module.livelib" name="Live Streams Library" provider-name="boogiepop" version="0.0.1">
+    <requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+		<import addon="script.module.boogietools" version="0.0.1"/>
+	</requires>
+    <extension library="lib" point="xbmc.python.module"/>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Live Streams Library</summary>
+		<description lang="en">Scraper library to retreive live stream links from varios servers</description>
+		<license>GNU General Public License, v2</license>
+		<language/>
+		<forum>https://github.com/huseyinbiyik/script.module.livelib/issues</forum>
+		<source/>
+		<email>boogiepop</email>
+	</extension>
+</addon>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.pftvso.themepak" version="0.0.2" name="ProjectFreeTV.so Themepak" provider-name="natko1412">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.script" library="default.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Themes for the ProjectFreeTV.so Addon</summary>
+        <description>Themes for ProjectFreeTV.so are maintained separately to make addon updates easier and faster.</description>
+        <platform>all</platform>
+    </extension>
+</addon>

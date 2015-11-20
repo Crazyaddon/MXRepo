@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><addon id="plugin.video.webspor" name="Webspor" provider-name="boogiepop" version="0.0.3">
+    <requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+		<import addon="script.module.boogietools" version="0.0.1"/>
+		<import addon="script.module.livelib" version="0.0.1"/>
+	</requires>
+	<extension library="addon.py" point="xbmc.python.pluginsource">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Webspor</summary>
+		<description lang="en">Provides Turkish Super League Matches from webspor.us</description>
+		<license>GNU General Public License, v2</license>
+		<language/>
+		<forum>https://github.com/huseyinbiyik/plugin.video.webspor/issues</forum>
+		<source/>
+		<email>boogiepop</email>
+	</extension>
+</addon>

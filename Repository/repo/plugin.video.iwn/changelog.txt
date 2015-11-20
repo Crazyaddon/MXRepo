@@ -1,0 +1,31 @@
+========================
+1.0.3
+========================
++ Fixed YouTube API
+
+========================
+1.0.2
+========================
++ Added Allied Independent Wrestling Federations (USA)
++ Added Busted Open Nation (Podcasts)
++ Added Canadian Wrestling's Elite (Canada)
++ Added Covey Pro Wrestling (USA)
++ Added EPW Wrestling (UK)
++ Added Enigma Pro Wrestling (USA)
++ Added German Wrestling Federation (Europe)
++ Added IWA Mid-South Wrestling (USA)
++ Added Legend City Wrestling (Canada)
++ Added Pacific Pro Wrestling (Australia)
++ Added Pro Wrestling Arizona (USA)
++ Added Riot City Wrestling (Australia)
++ Added Vanguard Championship Wrestling (USA)
+
+========================
+1.0.1
+========================
++ Small fixes
+
+========================
+1.0.0
+========================
++ Initial release

@@ -1,0 +1,9 @@
+v1.0.2:
+  - switching over to new artist improved
+
+v1.0.1:
+  - removed lockup during CD playback
+  - settings shown when addon is selected and no audio is playing
+
+v1.0.0:
+  - initial release

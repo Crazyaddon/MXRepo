@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><addon id="script.module.boogietools" name="Boogie's tool box" provider-name="boogiepop" version="0.0.1">
+    <requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+		<import addon="script.module.pytz" version="2014.2"/>
+	</requires>
+    <extension library="lib" point="xbmc.python.module"/>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Boogie's Toolbox</summary>
+		<description lang="en">generic functions for developing a plugin</description>
+		<license>GNU General Public License, v2</license>
+		<language/>
+		<forum>https://github.com/huseyinbiyik/script.module.boogietools/issues</forum>
+		<source/>
+		<email>boogiepop</email>
+	</extension>
+</addon>

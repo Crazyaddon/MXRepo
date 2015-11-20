@@ -1,0 +1,8 @@
+version 1.0.1
+
+  * added autostart
+
+version 1.0.0
+
+  * initial release
+

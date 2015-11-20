@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.albkino" version="1.0.4" name="Albkino" provider-name="pcd">
+	<requires></requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Films from Albkino.com</summary>
+		<description>Films from Albkino.com</description>
+		<platform>all</platform>
+	</extension>
+</addon>

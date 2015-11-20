@@ -1,0 +1,6 @@
+2015-10-25: dont use loophack, causes rpi to stuck. update site domain
+2015-10-25: wait ui to init first
+2015-10-25: 0.0.1 Version Release
+2015-10-25: lots of stuff
+2015-10-19: initial
+2015-10-19: Initial commit

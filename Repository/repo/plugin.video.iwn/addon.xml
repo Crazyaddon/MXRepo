@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.iwn"
+       name="Indy Wrestling Network"
+       version="1.0.3"
+       provider-name="RayW1986">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource"
+               	library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary>Collection of Independent Wrestling Promotions</summary>
+        <description>The Indy Wrestling Network is your number one stop shop for independent wrestling promotions across the world.
+		[B]NOTE:[/B] This plugin requires that you have the YouTube plugin installed also.</description>
+    </extension>
+	
+</addon>
