@@ -1,3 +1,26 @@
+[B]Version 5.1.7[/B]
+- added www.entertainmentrepo.com fanart
+- cleaned code
+
+[B]Version 5.1.6[/B]
+- url fix
+
+[B]Version 5.1.5[/B]
+- url fix
+- added 2016
+
+[B]Version 5.1.4[/B]
+- url fix
+
+[B]Version 5.1.2[/B]
+- url fix
+
+[B]Version 5.1.1[/B]
+- url fix
+
+[B]Version 5.1.0[/B]
+- url fix
+
 [B]Version 5.0.9[/B]
 - url fix
 

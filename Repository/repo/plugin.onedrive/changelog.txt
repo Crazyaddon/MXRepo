@@ -1,0 +1,32 @@
+v1.1.4
+- Fix the auto-refreshed slideshow when a connection error happens with OneDrive.
+v1.1.3
+- Minor fixes
+v1.1.2
+- Subtitles can be assigned automatically if a .str file exists next to the video.
+- Fix Auto-refreshed slideshow
+- Minor fixes
+v1.1.1
+- Show picture fixed
+- Retry request in case of failure
+- Minor fixes
+v1.1.0
+- Search function added
+v1.0.7
+- New feature: Auto-refreshed slideshow
+v1.0.6
+- Functionality to report errors
+v1.0.5
+- Minor fixes
+v1.0.4
+- The onedrive.ini is stored in the userdata folder of the addon
+v1.0.3
+- Fix of slideshow
+- Fix of encoding/decoding
+v1.0.2
+- Fix support of folders with more than 200 items
+- Fix support of account names with special characters
+v1.0.1
+- Login process fix
+v1.0.0
+- Initial version

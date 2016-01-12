@@ -1,3 +1,9 @@
+Version 1.3.1 swesub
+Version 1.3.0 fix dependency
+Version 1.2.8 adding episode name
+Version 1.2.7 cpasbien support
+Version 1.2.6 Extended info script support
+Version 1.2.5 adding SAFE parameters to storage
 Version 1.2.4 Adding Support to not duplicated items in the library
 Version 1.2.3 new FormatTitle
 Version 1.2.2 Accept-Content in ENglish

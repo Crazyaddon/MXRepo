@@ -1,5 +1,20 @@
+v6.0.3
+- cleanup
+
+v6.0.2
+- update language files from Transifex
+
+v6.0.1
+- update language files from Transifex
+
+v6.0.0
+- kodi name change
+
+v5.0.4
+- don't add return to pvr paths
+
 v5.0.3
-- added Property in order to fill lists
+- language update
 
 v5.0.2
 - fixed launching of android apps

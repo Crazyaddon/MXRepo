@@ -1,3 +1,104 @@
+[B]Version 2.7.2[/B]
+- added some good streaming sites to movie search
+- added bluray movies site
+
+[B]Version 2.7.1[/B]
+- small fixes
+- code clean up
+- cleaned up searches 
+
+[B]Version 2.7.0[/B]
+- small fixes
+- code clean up
+- test gif removed for now
+
+[B]Version 2.6.9[/B]
+- removed help & news 
+- code clean up
+
+[B]Version 2.6.8[/B]
+- added uksoapshare
+
+[B]Version 2.6.7[/B]
+- gif test for users on kodi jarvis 16 and 17
+
+[B]Version 2.6.4[/B]
+- new index movie search
+- fixed dx-tv in sport
+-
+
+[B]Version 2.6.2[/B]
+- fixed dailyddl pics not showing in movies
+- fixed dailyddl next page
+- added xtremeLi site
+- small code fixes
+
+[B]Version 2.6.1[/B]
+- small fix
+
+[B]Version 2.6.0[/B]
+- added more sites to dvdscr & 1080p zone
+
+[B]Version 2.5.9[/B]
+- added more sites to dvdscr & 1080p zone
+
+[B]Version 2.5.8[/B]
+- testing some stuff in scene-rls
+
+[B]Version 2.5.7[/B]scene-rls
+- added more into sports
+- added more into 1080p zone
+
+[B]Version 2.5.6[/B]
+- small fix
+- added rlsarchive
+
+[B]Version 2.5.5[/B]
+- fixed 300mbmovies
+- added mypopcorntime
+- added scene groups in 1080p zone
+- fixed featured now index search
+- code clean up
+
+[B]Version 2.5.4[/B]
+- 
+
+[B]Version 2.5.2[/B]
+- testing tv packs zone in tv shows
+
+[B]Version 2.5.0[/B]
+- added DVDScr zone in movies
+
+[B]Version 2.5.0[/B]
+- added test zone 4K tv packs
+
+[B]Version 2.4.0[/B]
+- added coolxvid (NITROFLARE links only)
+
+[B]Version 2.2.9[/B]
+- 
+
+[B]Version 2.2.8[/B]
+- 
+
+[B]Version 2.2.7[/B]
+- added new sites
+- code clean up
+
+[B]Version 2.2.6[/B]
+- added new sites
+- code clean up
+
+[B]Version 2.2.5[/B]
+- added new sites
+- code clean up
+
+[B]Version 2.2.4[/B]
+- small fixes
+
+[B]Version 2.2.3[/B]
+- changed some URL's
+
 [B]Version 2.2.2[/B]
 - fix
 

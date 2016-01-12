@@ -1,5 +1,18 @@
 NBA Full Games by natko1412
 ==================================
+v3.0.5 [03-Jan-2016]
+-error fixes
+
+v3.0.4 [26-Dec-2015]
+-error fixes
+
+v3.0.2 [23-Nov-2015]
+-bug fixes
+
+v3.0.1 [20-Nov-2015]
+-temporary fix for site changes
+-fix teams
+
 v3.0.0 [09-Nov-2015]
 -added Live Games (BETA)
 -added downloads

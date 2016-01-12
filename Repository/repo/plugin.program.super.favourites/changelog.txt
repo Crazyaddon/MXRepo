@@ -1,5 +1,15 @@
 [B][COLOR chartreuse]This file contains ALOT of useful information regarding the functionality of Super Favourites - PLEASE READ IT!![/COLOR][/B]
 
+
+[COLOR chartreuse]1.0.44: 17th December 2015[/COLOR]
+    - version bump
+
+
+[COLOR chartreuse]1.0.43: 16th December 2015[/COLOR]
+    - submitted to org
+    - fixed renaming folders when only case is changed
+
+
 [COLOR chartreuse]1.0.42: 17th November 2015[/COLOR]
     - Super Favourites global menu now disabled by default
     - configurable artwork for the following infolabels: 'banner', 'landscape' and 'poster'

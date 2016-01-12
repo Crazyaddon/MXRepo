@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.coolmoviezoneER" version="0.0.2" name="Cool Movie Zone" provider-name="Mr Entertainment">
+<addon id="plugin.video.coolmoviezoneER" version="0.0.6" name="Cool Movie Zone" provider-name="@MrEntertainRepo">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.TheYid.common" version="0.1.1"/>
@@ -10,8 +10,10 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>movies</summary>
-        <description>stream movies</description>
+        <description>stream movies from CoolMovieZone for more info on this addon go to http://entertainmentrepo.weebly.com/</description>
         <platform>all</platform>
+	 <forum>http://entertainmentrepo.weebly.com/</forum>
+	 <website>http://entertainmentrepo.weebly.com/</website>
         <disclaimer lang="en">All the movies on this website are hosted on the third party sites and uploaded by other people. We are not responsible for any content that hosted on on the third-party sites. If you have any legal issues please contact appropriate video owners hosters.</disclaimer>
     </extension>
 </addon>

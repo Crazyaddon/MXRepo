@@ -1,3 +1,17 @@
+version 1.3.8
+
+  * fix AdultSwim
+  * fix MTV
+  * fix for exporting to smb (and probably others) network share
+  * add export/imports favorites
+
+version 1.3.7
+
+  * fix AMC
+  * fix CBS
+  * fix TNT
+  * fix common issues
+
 version 1.3.6
 
   * improve CC handling

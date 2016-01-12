@@ -1,3 +1,12 @@
+2015-12-20: add micast
+2015-12-13: fix weplayer domain
+2015-11-23: grayscale icon
+2015-11-23: new icon
+2015-11-23: 0.0.3 Version Release
+2015-11-23: version bump
+2015-11-22: 0.0.2 Version Release
+2015-11-22: weplayer,sostart
+2015-10-25: 0.0.1 Version Release
 2015-10-25: playerhd: use refferers
 2015-10-19: initial
 2015-10-19: Initial commit

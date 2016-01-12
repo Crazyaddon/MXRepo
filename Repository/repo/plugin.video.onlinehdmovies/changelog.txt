@@ -1,3 +1,13 @@
+[B]Version 1.1.2[/B]
+- added more hosts that was hidden
+- fixed openload to work with r-debrid
+
+[B]Version 1.1.1[/B]
+- small fixes
+
+[B]Version 1.1.0[/B]
+- changed site
+
 [B]Version 1.0.6[/B]
 - Fixed links
 

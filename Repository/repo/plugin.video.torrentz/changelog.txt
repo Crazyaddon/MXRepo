@@ -1,0 +1,5 @@
+Version 1.2.3 Extended info support
+Version 1.2.2 Fix library integration
+Version 1.2.1 Search Block
+Version 1.0.1 Some traductions
+Version 1.0.0 First version

@@ -1,0 +1,38 @@
+[B]Version 5.1.0[/B]
+*OCW Reborn its a new beginning* (TV Calendar and index searches are still in beta)
+- code clean up
+- fixes
+- added new sites
+
+[B]Version 5.0.8[/B]
+*OCW Reborn its a new beginning* (TV Calendar and index searches are still in beta)
+- scraping new site
+
+[B]Version 5.0.7[/B]
+*OCW Reborn its a new beginning* (TV Calendar and index searches are still in beta)
+- small fixes
+
+[B]Version 5.0.6[/B]
+*OCW Reborn its a new beginning* (TV Calendar and index searches are still in beta)
+- fixed changes to the site
+- fixed google search of ocw
+- site is still unstable & will go up & down
+
+[B]Version 5.0.5[/B]
+*OCW Reborn its a new beginning* (TV Calendar and index searches are still in beta)
+- added a beta site search 
+
+[B]Version 5.0.4[/B]
+*OCW Reborn its a new beginning* (TV Calendar and index searches are still in beta)
+- fixed UpToStream direct link 
+- added DVD index search
+- code clean up
+- small fixes
+
+[B]Version 5.0.2[/B]
+*OCW Reborn its a new beginning* (TV Calendar and index searches are still in beta)
+- fixed tv a/z
+
+[B]Version 5.0.1[/B]
+*OCW Reborn its a new beginning* (TV Calendar and index searches are still in beta)
+- site mite still be unstable & go up & down

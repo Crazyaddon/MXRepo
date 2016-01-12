@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><addon id="script.module.livelib" name="Live Streams Library" provider-name="boogiepop" version="0.0.1">
+<?xml version="1.0" encoding="UTF-8"?><addon id="script.module.livelib" name="Live Streams Library" provider-name="boogiepop" version="0.0.7">
     <requires>
 		<import addon="xbmc.python" version="2.1.0"/>
-		<import addon="script.module.boogietools" version="0.0.1"/>
+		<import addon="script.module.boogietools" version="0.0.6"/>
 	</requires>
     <extension library="lib" point="xbmc.python.module"/>
 	<extension point="xbmc.addon.metadata">

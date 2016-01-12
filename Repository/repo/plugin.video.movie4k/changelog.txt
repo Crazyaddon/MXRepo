@@ -1,6 +1,11 @@
+v1.4.2
+	* Update unblocked URL.
+	* Do not enforce the thumbnail view in menus.
+
+
 v1.4.1
-	* Fix a bug in the resolving of a media URL when the proxy anti-block feature is enabled. Not titles can be actually played.
-	* Consider changes in the URLs to be scraped when the proxy anti-block feature is enabled. It is important for correct display of the stream quality and thumbnails.
+	* Fix a bug in the resolving of a media URL when the proxy anti-block feature is enabled. Now titles can be actually played.
+	* Consider changes in the URLs to be scraped when the proxy anti-block feature is enabled. It is important for the correct display of the stream quality and thumbnails.
 	* Add explanations to the numbers in the menu titles (IMDB, quality, ...)
 
 

@@ -1,0 +1,24 @@
+v1.0.7 (Saturday, 15 august 2015) :
+- added some utf8 stuff
+
+v1.0.6 (Tuesday, 23 june 2015) :
+- changed fanart
+
+v1.0.5 (Tuesday, 16 june 2015) :
+- changed icon and fanart due to changes in the website
+
+v1.0.4 (Monday, 18 may 2015) :
+- adjustments due to changes in the website: cookiewall circumvented by adding a cookie to the header (thanks bas lichtjaar)
+
+v1.0.3 (Wednesday, 25 February 2015) :
+- play the highest video quality that's available (kudos to Amelandbor!)
+
+v1.0.2 (Saturday, 3 August 2013) :
+- fixed title bug
+
+v1.0.1 (Saturday, 7 July 2013) :
+- added beautiful soup as dependency
+- added dutch strings
+
+v1.0.0 (Sunday, 23 June 2013) :
+ - initial version

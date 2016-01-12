@@ -1,3 +1,9 @@
+v0.0.5:
+- Add headers in request and remove magnet link as no longer supported by strike api
+
+v0.0.4:
+- bugs fixes
+
 v0.0.3:
 - Add notification time settings (allow to disable notification)
 

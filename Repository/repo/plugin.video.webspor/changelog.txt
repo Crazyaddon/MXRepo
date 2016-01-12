@@ -1,3 +1,7 @@
+2015-12-20: detect sostart
+2015-12-13: fix for new site update
+2015-11-22: remove ctimeout
+2015-11-22: new scrapers.
 2015-10-25: dont use loophack, causes rpi to stuck. update site domain
 2015-10-25: wait ui to init first
 2015-10-25: 0.0.1 Version Release

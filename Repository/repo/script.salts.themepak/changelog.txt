@@ -1,3 +1,9 @@
+[B]Version 0.0.8[/B]
+- New icons added to some themes
+
+[B]Version 0.0.7[/B]
+- Update SALTy and SALTier themes
+
 [B]Version 0.0.6[/B]
 - Updated several themes
 - Updated Simply Elegant

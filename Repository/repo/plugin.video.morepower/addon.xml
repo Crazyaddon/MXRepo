@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.morepower" name="MorePower" version="1.0.1" provider-name="Mucky Duck/MorePower">
+<addon id="plugin.video.morepower" name="MorePower" version="1.0.2" provider-name="Mucky Duck/MorePower">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="2.1.2"/>
 	<import addon="script.module.addon.common" />
+	<import addon="script.module.metahandler" version="2.5.1"/>
 	<import addon="script.module.requests" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">

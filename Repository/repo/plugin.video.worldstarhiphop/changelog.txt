@@ -1,0 +1,14 @@
+v1.0.5 (Saturday, 5 September 2015):
+- added support for uncut 18+ videos
+
+v1.0.4 (Saturday, 15 August 2015):
+- changed some utf-8 stuff
+
+v1.0.2/3 (Wednesday, 5 August 2015):
+- fixed characterset bug when listing videos
+
+v1.0.1 (Wednesday, 1 July 2015):
+- added Search
+
+v1.0.0 (Wednesday, 6 June 2015):
+- initial version

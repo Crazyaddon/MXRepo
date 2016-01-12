@@ -1,3 +1,6 @@
+Version 1.2.2 Extended info support
+Version 1.2.1 Search block
+Version 1.2.0 Storing Search
 Version 1.1.2 Fix Service
 Version 1.1.1 page Storage
 Version 1.1.0 new coding

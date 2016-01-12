@@ -1,5 +1,8 @@
 [B][COLOR blue]Funnier Moments acquires distribution rights for all videos, this costs money - please consider a small donation via the website - www.funniermoments.com[/COLOR][/B]
 
+[COLOR chartreuse]1.0.20: 29th December 2015[/COLOR]
+  - fixed due to changes on the website
+
 v1.0.19:
   - fixed due to website changing to toon.is
 

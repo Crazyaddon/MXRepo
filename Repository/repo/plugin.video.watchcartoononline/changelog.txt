@@ -1,3 +1,6 @@
+v1.0.20:
+   - fixed resolver due to change on website
+
 v1.0.19:
    - fixed resolver
    - added resolution information to selection dialog when available

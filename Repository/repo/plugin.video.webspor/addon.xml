@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><addon id="plugin.video.webspor" name="Webspor" provider-name="boogiepop" version="0.0.3">
+<?xml version="1.0" encoding="UTF-8"?><addon id="plugin.video.webspor" name="Webspor" provider-name="boogiepop" version="0.0.8">
     <requires>
 		<import addon="xbmc.python" version="2.1.0"/>
-		<import addon="script.module.boogietools" version="0.0.1"/>
-		<import addon="script.module.livelib" version="0.0.1"/>
+		<import addon="script.module.boogietools" version="0.0.6"/>
+		<import addon="script.module.livelib" version="0.0.7"/>
 	</requires>
 	<extension library="addon.py" point="xbmc.python.pluginsource">
 		<provides>video</provides>

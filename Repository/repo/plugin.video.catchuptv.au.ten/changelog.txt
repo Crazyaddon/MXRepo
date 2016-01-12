@@ -1,4 +1,6 @@
-[B]Version 0.5.10[/B]
+[B]Version 0.5.11[/B]
+- Remove AMF media for HTTP delivery
+- Version 0.5.10
 - Handle videos with missing description
 
 [B]Version v0.5.9[/B]
@@ -27,6 +29,48 @@
 - Add resources/lib to start of path instead of end
 
 [B]Version v0.5.2[/B]
+- Version 0.5.10
+- Handle videos with missing description
+- Version 0.5.9
+- Update API token
+- Version 0.5.8
+- Handle errors loading fan art bootstrap file gracefully
+- Version 0.5.7
+- Replace GitHub with Rollbar exception tracking
+- Version 0.5.6
+- Add Live Streaming of Glasgow 2014 Commonwealth Games
+- Version 0.5.5
+- Refactor media fallback into networktenvideo lib
+- Add fallback to FLVFullLength to try to support live streams
+- Add version check before reporting issue
+- Version 0.5.4
+- Fix fanart and update listing for previous/next
+- Guard against None fanart
+- Version 0.5.3
+- Add extra metadata to addon descriptor
+- Add resources/lib to start of path instead of end
+
+[B]Version v0.5.10[/B]
+- Handle videos with missing description
+- Version 0.5.9
+- Update API token
+- Version 0.5.8
+- Handle errors loading fan art bootstrap file gracefully
+- Version 0.5.7
+- Replace GitHub with Rollbar exception tracking
+- Version 0.5.6
+- Add Live Streaming of Glasgow 2014 Commonwealth Games
+- Version 0.5.5
+- Refactor media fallback into networktenvideo lib
+- Add fallback to FLVFullLength to try to support live streams
+- Add version check before reporting issue
+- Version 0.5.4
+- Fix fanart and update listing for previous/next
+- Guard against None fanart
+- Version 0.5.3
+- Add extra metadata to addon descriptor
+- Add resources/lib to start of path instead of end
+- Version 0.5.2
 - Ignore SystemExit and KeyboardInterrupt bug reports
 
 [B]Version v0.5.1[/B]

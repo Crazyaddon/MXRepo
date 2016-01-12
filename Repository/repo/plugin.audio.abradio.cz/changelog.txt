@@ -1,0 +1,12 @@
+[B]3.0.1:[/B]
+- indentation fix by lgelo (station list was not being downloaded at all)
+[B]3.0.0:[/B]
+- version bump for gotham
+[B]2.0.1:[/B]
+- fixes for eden
+[B]1.0.1:[/B]
+- fixed: playing m3u/mp3 stations
+- fixed: plugin error when stations having no logo 
+- fixed: parsing ASX playlists
+[B]1.0.0:[/B]
+Initial version

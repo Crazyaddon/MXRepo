@@ -1,5 +1,7 @@
 [B]Version 12.0.12[/B]
 - Old code removed, new code stable.
+- Fixed SD/HD streaming issues.
+- Various tweaks and fixes.
     
 [B]Version 12.0.11[/B]
 - "NEW" code exclusive features:

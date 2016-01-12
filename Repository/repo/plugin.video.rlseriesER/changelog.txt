@@ -1,2 +1,28 @@
+[B]Version 0.1.1[/B]
+- code clean up
+
+[B]Version 0.1.0[/B]
+- removed gif's, test over more on gif icons soon
+- for all the latest news go to www.entertainmentrepo.com
+
+[B]Version 0.0.8[/B]
+- gif test for users on kodi jarvis 16 and 17
+
+[B]Version 0.0.7[/B]
+- small fix
+
+[B]Version 0.0.6[/B]
+- added Other Seasons links at the end off episodes list
+- for more info go to www.entertainmentrepo.com
+
+[B]Version 0.0.5[/B]
+- fixed changes to site code
+
+[B]Version 0.0.4[/B]
+- fixed changes to site code
+
+[B]Version 0.0.2[/B]
+- added talk shows
+
 [B]Version 0.0.1[/B]
 - Initial beta version 

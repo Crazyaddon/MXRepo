@@ -1,4 +1,12 @@
 ------------------------
+Ororo TV v2.2.8 (19-Dec-15)
+------------------------
+
+- Added support for viewing movies
+- Added option to clear common cache
+- Minor changes and fixes
+
+------------------------
 Ororo TV v2.2.1 (27-Jun-14)
 ------------------------
 

@@ -1,0 +1,5 @@
+Version 0.0.5 Fanart
+Version 0.0.4 Language Support
+Version 0.0.3 Script and service
+Version 0.0.2 main
+Version 0.0.1 First version

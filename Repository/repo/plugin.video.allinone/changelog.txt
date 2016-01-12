@@ -1,3 +1,56 @@
+[B]Version 8.7.7[/B] 
+- added bluray movie watch online site
+- added viberadioonline.com in radio
+
+[B]Version 8.7.4[/B] 
+- clean out
+
+[B]Version 8.7.1[/B] 
+- added superseriale
+- fixed 300mbmovies4u search
+
+[B]Version 8.7.0[/B] 
+- fixed links url
+- added tvmuseum
+
+[B]Version 8.6.8[/B] 
+- fixed links url
+
+[B]Version 8.6.7[/B] 
+- fixed links url
+
+[B]Version 8.6.6[/B] 
+- added themovie4u
+ removed OCW for now
+
+[B]Version 8.6.5[/B] 
+- added OCW but not in search and site mite still go up and down
+- added TVDL
+- fixed 300mbmovies4u
+
+[B]Version 8.6.4[/B] 
+- added tv series log
+
+[B]Version 8.6.2[/B] 
+- fixed prime links
+
+[B]Version 8.6.1[/B] 
+- @PunjabiPindu update thanks mate
+
+[B]Version 8.6.0[/B] 
+- 
+
+[B]Version 8.5.9[/B] 
+- @PunjabiPindu update thanks mate
+
+- @TheYid009 fixes
+
+[B]Version 8.5.8[/B] 
+- @PunjabiPindu update thanks mate
+- fixed OMG
+- @TheYid009 fixes
+- prime links
+
 [B]Version 8.5.7[/B] 
 - loads of fixes
 

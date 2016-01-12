@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.ocw" version="5.1.0" name="[B]OCW[/B] [COLOR lemonchiffon]Reborn[/COLOR]" provider-name="@MrEntertainRepo">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.TheYid.common" version="0.1.1"/>
+        <import addon="script.module.urlresolver"  version="2.0.9"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>[B]OCW[/B] [COLOR lemonchiffon]Reborn[/COLOR] [COLOR blue][B]THE ORIGINAL[/B][/COLOR] for all scene releases lovers free on demand streaming</summary>
+        <description>Play a wide selection of scene release movies and Tv shows from [B]OCW[/B] [COLOR lemonchiffon]Reborn[/COLOR] [COLOR blue][B]Go to www.entertainmentrepo.com for more info[/B][/COLOR]</description>
+        <platform>all</platform>
+        <disclaimer lang="en">All the movies on this website are hosted on the third party sites and uploaded by other people. We are not responsible for any content that hosted on on the third-party sites. If you have any legal issues please contact appropriate video owners hosters.</disclaimer>
+        <website>www.entertainmentrepo.com</website>
+    </extension>
+</addon>

@@ -2,13 +2,12 @@
 	<addon
         id="plugin.audio.ts5player" 
         name="TS5 player (Capital XTRA)" 
-        version="1.1.8" 
+        version="1.1.9" 
         provider-name="@TheYid009">
 		<requires>
 			<import addon="xbmc.python"             	version="2.1.0"/>
 			<import addon="xbmc.addon"              	version="12.1.0"/>
                      <import addon="script.module.TheYid.common" version="0.1.1"/>
-                     <import addon="repository.entertainmentrepo" version="1.0"/>
 		</requires>
 		<extension point="xbmc.python.pluginsource" library="default.py">
 			<provides>audio</provides>

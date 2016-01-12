@@ -1,3 +1,30 @@
+V2.7.5
+- Added Anime in cartoon section.
+- Updates available resolvers.
+
+V2.7.4
+- Updated available resolvers.
+
+V2.7.3
+- Added cartoons section.
+- Updated available sources.
+- Updated available resolvers.
+
+V2.7.2
+- Updated available sources.
+- Updated available resolvers.
+
+V2.7.1
+- Updated VinMan FM section.
+- Updated available resolvers.
+
+V2.7.0
+- Added VinMan FM section.
+- Updated available resolvers.
+
+V2.6.9
+- Fixed issue with sources.
+
 V2.6.8
 - Fixed issue with sources.
 

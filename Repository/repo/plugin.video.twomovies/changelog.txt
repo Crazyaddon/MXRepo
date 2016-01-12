@@ -1,3 +1,18 @@
+V2.6.5
+Increased speed
+Lowered number of requests
+Reduced the possibility of being blocked for excessive requests
+
+V2.6.2
+Platform bug quick fix
+Added Notification if Ip Blocked at site source
+
+V2.6.1
+Updated sources
+Make sure to Visit
+twomovies.us
+and tvaddons.ag for support
+
 V2.6.0
 Beginning the rebuild process
 Some bugs still present

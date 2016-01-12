@@ -1,3 +1,10 @@
+[B]Version 0.1.6[/B]
+- added For www.entertainmentrepo.com fanart
+- code clean up
+
+[B]Version 0.1.5[/B]
+- added set Views
+
 [B]Version 0.1.4[/B]
 - added set Views
 

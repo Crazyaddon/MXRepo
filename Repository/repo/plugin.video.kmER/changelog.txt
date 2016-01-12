@@ -1,6 +1,11 @@
-[B]Version 0.0.2[/B]
+[B]Version 0.0.5[/B]
+- added princessmovies
+
+[B]Version 0.0.4[/B]
 - Initial version 
 
+[B]Version 0.0.2[/B]
+- Initial version 
 
 [B]Version 0.0.1[/B]
 - Initial version 

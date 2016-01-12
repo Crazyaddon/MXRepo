@@ -1,3 +1,6 @@
+v1.0.2
+added default view and metadata just enable in settings
+
 v1.0.1
 added extra views
 

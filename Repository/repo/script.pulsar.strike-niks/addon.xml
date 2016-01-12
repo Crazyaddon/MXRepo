@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.pulsar.strike-niks" name="Pulsar Strike Provider" version="0.0.4" provider-name="niks">
+<addon id="script.pulsar.strike-niks" name="Pulsar Strike Provider" version="0.0.5" provider-name="niks">
     <requires>
         <import addon="xbmc.python" version="2.12.0"/>
         <import addon="plugin.video.pulsar" version="0.3"/>

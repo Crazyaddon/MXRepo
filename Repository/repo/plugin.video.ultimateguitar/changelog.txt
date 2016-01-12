@@ -1,3 +1,6 @@
+1.0.8
+Fixed JG lessons
+
 1.0.6
 Fixed youtube channels
 
