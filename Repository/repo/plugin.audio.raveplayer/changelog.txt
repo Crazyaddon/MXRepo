@@ -5,6 +5,12 @@
 [COLOR blue]and for making your own folders use Super Favourites you can get it from 
 Spoyser REPO or the XBMC REPO[/COLOR]
 
+[B]Version 2.0.2[/B]
+****** Rave Player is now over 2 years old *****
+- fixed some fanart
+- fixed LTJ bukem 
+- fixed Helter Skelter 
+
 [B]Version 2.0.1[/B]
 ****** Rave Player is now 2 years old *****
 - added jungle tapes 

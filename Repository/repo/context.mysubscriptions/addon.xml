@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="context.mysubscriptions" name="My Subscriptions" version="1.0.5" provider-name="kinkin">
+  <requires>
+    <import addon="xbmc.python" version="2.20.0"/>
+    <import addon="script.module.requests" version="1.1.0"/>
+    <import addon="script.module.urlresolver" version="1.0.0"/>
+  </requires>
+    <extension point="kodi.context.item" library="addon.py">
+    <provides>executable</provides>	
+      <item>
+        <label>Select Alternative Addon</label>
+        <visible>StringCompare(ListItem.dbtype,movie) | StringCompare(ListItem.dbtype,episode)</visible>
+      </item>
+    </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Library streams with a choice</summary>
+    <description>Add movies and shows to your library from any addon.....Use the context menu to Select Alternative Addon</description>
+    <platform>all</platform>
+  </extension>
+</addon>

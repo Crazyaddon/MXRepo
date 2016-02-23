@@ -1,0 +1,17 @@
+1.0.4
+Added Velocity
+
+1.0.3
+Added TRW
+
+1.0.2a
+Fixed settings
+
+1.0.2
+Added settings to default to only one addon
+
+1.0.1
+Added more movie sources
+
+1.0.0
+Initial Release.
