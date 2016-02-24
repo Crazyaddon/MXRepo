@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.theyidrh" version="2.7.2" name="Release [COLOR firebrick][B]HUB[/B][/COLOR]" provider-name="@MrEntertainRepo">
+<addon id="plugin.video.theyidrh" version="2.8.6" name="Release [COLOR firebrick][B]HUB[/B][/COLOR]" provider-name="@MrEntertainRepo">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.TheYid.common" version="0.1.1"/>
@@ -11,7 +11,7 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Release [B][I][COLOR dodgerblue]HUB[/COLOR][/B][/I]</summary>
-        <description>Stream Tv shows movies Release [B][I][COLOR dodgerblue]HUB[/COLOR][/B][/I] has 30+ scene release sites all in one addon.... sceper, 2ddl, ReleaseBB, DDlvalley + many more in this [COLOR lime][B]SUPER ADDON[/B][/COLOR] [COLOR red][B][I]YOU will need a debrid premium account to get the best out of this addon[/B][/I][/COLOR] For more info go to www.entertainmentrepo.com</description>
+        <description>Stream Tv shows movies Release [B][I][COLOR dodgerblue]HUB[/COLOR][/B][/I] has 30+ scene release sites all in one addon.... for the best 4K 1080p 720p.... sceper, 2ddl, ReleaseBB, DDlvalley + many more in this [COLOR lime][B]SUPER ADDON[/B][/COLOR] [COLOR red][B][I]YOU will need a debrid premium account to get the best out of this addon[/B][/I][/COLOR] For more info go to www.entertainmentrepo.com</description>
         <platform>all</platform>
 	 <forum>http://entertainmentrepo.com/</forum>
 	 <website>http://entertainmentrepo.com/</website>

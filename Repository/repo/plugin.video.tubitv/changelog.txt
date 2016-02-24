@@ -1,8 +1,7 @@
-Version 1.0.1 Initial release
-Version 1.0.2 Added SD/HD and subtitles
-Version 1.0.4 website change
-Version 1.0.5 website change
-Version 1.0.6 website change
-Version 1.0.7 website change, added views
-Version 1.0.8 website change
-Version 1.0.9 website change
+V2.0.1 Initial v2 release
+V2.0.2 fix for release
+V2.0.3 fix for metadata - reset metadata in settings before running
+V2.0.4 fix for new url scramble
+V2.0.5 cleanup for release
+V2.0.6 fix for website change
+V2.0.7 fix for website change

@@ -1,3 +1,46 @@
+[B]Version 2.8.6[/B]
+- small code fix
+- readded rapidbit bigger & better, may go up & down due to new set up
+
+[B]Version 2.8.5[/B]
+- added sites to search
+
+[B]Version 2.8.4[/B]
+- added sites to search
+- code clean up
+- added scene-rls boxing in sport
+
+[B]Version 2.8.2[/B]
+- added sites to search
+
+[B]Version 2.8.1[/B]
+- changed 2ddl URL
+- calendar search clean up
+
+[B]Version 2.7.9[/B]
+- fixed next page on new prime links
+
+[B]Version 2.7.8[/B]
+- added veverel got some nice tv packs (not in search)
+- code clean up
+
+[B]Version 2.7.7[/B]
+- added new prime links site 1080p 4k (not in search)
+
+[B]Version 2.7.6[/B]
+- removed more dead sites
+- code clean up
+- working on Movie Genres search
+
+[B]Version 2.7.5[/B]
+- removed dead sites
+- code clean up
+- added Movie Genres search
+
+[B]Version 2.7.4[/B]
+- removed dead sites
+- code clean up
+
 [B]Version 2.7.2[/B]
 - added some good streaming sites to movie search
 - added bluray movies site

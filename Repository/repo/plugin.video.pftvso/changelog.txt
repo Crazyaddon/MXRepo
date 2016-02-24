@@ -1,6 +1,22 @@
 =======================================
 ProjectFreeTV.so addon by natko1412
 =======================================
+v0.3.4 [06-Feb-2016]
+-add show to favourites from episodes context
+-randomize autoplay to avoid high traffic on first links 
+and to increase percentage of working autoplays
+
+v0.3.3 [24-Jan-2016]
+-use lambda's client module
+
+v0.3.2 [20-Jan-2016]
+-fix errors
+-fix not showing fanart on some items
+
+v0.3.1 [16-Jan-2016]
+-fix a-z
+-add source whitelist
+
 v0.3.0 [30-Sep-2015]
 -fix reverse lookup and search
 -new downloader 

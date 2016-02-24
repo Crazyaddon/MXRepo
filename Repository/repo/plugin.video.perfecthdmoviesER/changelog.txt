@@ -1,0 +1,3 @@
+[B]Version 0.0.1[/B]
+- Initial version 
+- this is how far i've got with this addon more to come when i have time

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.spiegelonline" name="Spiegel Online" version="1.2.3" provider-name="cdwertmann (credits to peterpanzki and mad-max for previous versions">
+<addon id="plugin.video.spiegelonline" name="Spiegel Online" version="1.2.4" provider-name="cdwertmann (credits to peterpanzki and mad-max for previous versions">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
     </requires>
@@ -16,5 +16,6 @@
         <website>https://github.com/cdwertmann/plugin.video.spiegelonline</website>
         <source>git://github.com/cdwertmann/plugin.video.spiegelonline.git</source>
         <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+        <broken>Add-on does not function properly</broken>
     </extension>
 </addon>

@@ -1,3 +1,22 @@
+[B]Version 1.1.9[/B]
+- code clean up
+- added tv show but only new stuff has links
+
+[B]Version 1.1.8[/B]
+- temp fix 030216
+
+[B]Version 1.1.7[/B]
+- temp fix 1
+
+[B]Version 1.1.6[/B]
+- temp fix for now
+
+[B]Version 1.1.5[/B]
+- small fix
+
+[B]Version 1.1.4[/B]
+- small fix
+
 [B]Version 1.1.2[/B]
 - added more hosts that was hidden
 - fixed openload to work with r-debrid

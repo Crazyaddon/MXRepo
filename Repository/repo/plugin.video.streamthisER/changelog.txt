@@ -1,3 +1,10 @@
+[B]Version 0.0.7[/B]
+- moved to a temp new site
+
+[B]Version 0.0.6[/B]
+- fixed search
+- code clean up
+
 [B]Version 0.0.5[/B]
 - added www.entertainmentrepo.com fanart
 - code clean up

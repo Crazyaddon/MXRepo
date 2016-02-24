@@ -1,3 +1,7 @@
+1.0.4
+Fixed 90 minutes
+Removed MOTD, no sources
+
 1.0.3
 Fixed Highlights
 Fixed 90 Minutes

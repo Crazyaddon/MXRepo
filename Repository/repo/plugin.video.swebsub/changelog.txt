@@ -1,3 +1,6 @@
+Version 1.0.5 Adding Quasar support
+Version 1.0.4 refreshing view
+Version 1.0.3 fixing dialog error
 Version 1.0.2 tv search support
 Version 1.0.1 fix name
 Version 1.0.0 First version

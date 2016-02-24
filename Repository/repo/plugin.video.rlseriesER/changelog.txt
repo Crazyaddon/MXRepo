@@ -1,3 +1,8 @@
+[B]Version 0.1.2[/B]
+- fixed/changed search
+- code clean up
+- fixed error when no more pages
+
 [B]Version 0.1.1[/B]
 - code clean up
 

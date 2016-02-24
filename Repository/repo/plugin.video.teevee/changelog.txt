@@ -1,6 +1,9 @@
 =======================================
 TeeVee by natko1412
 =======================================
+v1.0.1 [16-Jan-2016]
+-updated available resolvers
+
 v1.0.0 [26-Oct-2015]
 -fix site changes
 -fix many other bugs
