@@ -1,0 +1,11 @@
+[B]Version 0.0.4[/B]
+- fixed changes to the site
+
+[B]Version 0.0.2[/B]
+- small fix to fanart
+- code clean up
+
+[B]Version 0.0.1[/B]
+- Initial beta version 
+- this is a beta/test addon 
+- tv packs do not work they are in RAR files

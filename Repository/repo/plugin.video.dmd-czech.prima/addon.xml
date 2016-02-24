@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.dmd-czech.prima"
-       name="Prima PLAY"
-       version="4.0.9"
+       name="Prima PLAY (zastaralý)"
+       version="4.0.10"
        provider-name="Jiri Vyhnalek">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.dmd-czech.common" version="1.5.8"/>
+    <import addon="plugin.video.primaplay" version="0.2.1"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
@@ -21,5 +22,6 @@
         Plugin pro přehrávání videí z archivu play.iprima.cz
     </description>
     <source>https://github.com/kodi-czsk/plugin.video.dmd-czech.prima</source>
+    <broken>deprecated</broken>
   </extension>
 </addon>
