@@ -1,0 +1,29 @@
+[B]Version 0.0.9[/B]
+- Added more in tv and movies
+- code clean up
+
+[B]Version 0.0.8[/B]
+- Added next page in search
+
+[B]Version 0.0.7[/B]
+- fixed search
+
+[B]Version 0.0.6[/B]
+- small fix to code
+
+[B]Version 0.0.5[/B]
+- code changes 
+- small fixes
+- new fanart
+
+[B]Version 0.0.4[/B]
+- added direct link uptostream large files take longer to come up so if no links try later
+- some tv shows have no img's so i've removed img's from home page just in case
+
+[B]Version 0.0.2[/B]
+- fixed time outs
+- changed to 1 page
+
+[B]Version 0.0.1[/B]
+- testing
+

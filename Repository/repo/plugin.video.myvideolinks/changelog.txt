@@ -1,3 +1,15 @@
+[B]Version 5.2.4[/B]
+- code clean up
+
+[B]Version 5.2.2[/B]
+- temp fix 030216
+
+[B]Version 5.2.1[/B]
+- temp fix 1
+
+[B]Version 5.2.0[/B]
+- temp fix
+
 [B]Version 5.1.7[/B]
 - added www.entertainmentrepo.com fanart
 - cleaned code

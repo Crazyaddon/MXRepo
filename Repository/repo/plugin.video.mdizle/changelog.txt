@@ -1,0 +1,6 @@
+v1.0.0
+addon alpha
+
+v1.0.2
+Initial Release to repo
+special thanks to @4yoursake for providing the graphics 

@@ -1,5 +1,8 @@
 NBA Full Games by natko1412
 ==================================
+v3.0.6 [07-Feb-2016]
+-error fixes
+
 v3.0.5 [03-Jan-2016]
 -error fixes
 

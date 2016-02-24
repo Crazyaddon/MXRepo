@@ -1,3 +1,6 @@
+Version 1.2.7 Adding Quasar support
+Version 1.2.6 refreshing view
+Version 1.2.5 fixing dialog error
 Version 1.2.4 Extended info support
 Version 1.2.3 Regression magnet
 Version 1.2.2 fix import

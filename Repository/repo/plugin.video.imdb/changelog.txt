@@ -1,0 +1,5 @@
+Version 1.0.4 Adding Quasar support
+Version 1.0.3 adding sync to storage
+Version 1.0.2 erasing some innecesaires logs
+Version 1.0.1 Adding support to list and watchlist
+Version 1.0.0 First version

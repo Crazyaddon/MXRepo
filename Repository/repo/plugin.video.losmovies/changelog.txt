@@ -31,3 +31,4 @@ v1.20 - URL Changed
 v1.21 - Updated base URL
 v1.22 - Fixed Favorites
 v1.23 - More Movie Categories Added.
+v1.24 - Updated Base URL

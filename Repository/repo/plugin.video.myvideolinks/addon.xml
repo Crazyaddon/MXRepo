@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.myvideolinks" version="5.1.7" name="Prime Links" provider-name="@MrEntertainRepo">
+<addon id="plugin.video.myvideolinks" version="5.2.4" name="Prime Links" provider-name="@MrEntertainRepo">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
-        <import addon="script.module.TheYid.common" version="0.1.1"/>
+        <import addon="script.module.t0mm0.common" version="2.1.1"/>
         <import addon="script.module.urlresolver"  version="2.0.9"/>
         <import addon="script.module.simplejson" version="3.3.0"/>
     </requires>

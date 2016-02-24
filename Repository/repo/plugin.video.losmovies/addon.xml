@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.losmovies" version="1.23" name="Los Movies" provider-name="The_Silencer">
+<addon id="plugin.video.losmovies" version="1.24" name="Los Movies" provider-name="The_Silencer/Spanky">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.urlresolver"  version="1.0.0"/>

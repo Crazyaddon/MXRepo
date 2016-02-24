@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.magnetdl" name="[COLOR FF017BD4]MagnetDL[/COLOR] viewer" version="1.2.2"
+<addon id="plugin.video.magnetdl" name="[COLOR FF017BD4]MagnetDL[/COLOR] viewer" version="1.2.5"
        provider-name="mancuniancol">
     <requires>
         <import addon="xbmc.python" version="2.12.0"/>
