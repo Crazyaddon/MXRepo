@@ -1,3 +1,36 @@
+[B]Version 8.8.5[/B] 
+- small code change in search
+- fixed omg online movie gold
+- temp change site of latest episodes index search
+- added meattransmission to radio
+- added freshradiouk to radio
+
+[B]Version 8.8.4[/B] 
+- small code change in search
+- re-added tvdl tv shows
+
+[B]Version 8.8.2[/B] 
+- small code change in tv search
+
+[B]Version 8.8.1[/B] 
+- removed tvdl thay have started to post only rar files
+
+[B]Version 8.8.0[/B] 
+- added upbuzz
+
+[B]Version 8.7.9[/B] 
+- removed dead sites
+- code clean up
+- added bluray movie watch online site
+- added onlineseris forum movies & tv shows
+- cleaned up search
+- more work to be done on searches when i have more free time
+
+[B]Version 8.7.8[/B] 
+- removed dead sites
+- fixed moviz4u
+- removed kids space pleases use kids movies in my repo
+
 [B]Version 8.7.7[/B] 
 - added bluray movie watch online site
 - added viberadioonline.com in radio

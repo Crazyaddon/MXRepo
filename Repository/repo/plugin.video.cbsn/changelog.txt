@@ -1,4 +1,3 @@
-Version 1.0.1 Initial release
-Version 1.0.2 cleaned up addon.xml
-Version 1.0.3 fixed feed and views
-Version 1.0.4 fix for unicode issues
+Version 2.0.1 Initial v2 release
+Version 2.0.2 cleanup for release
+Version 2.0.3 website change (live url)

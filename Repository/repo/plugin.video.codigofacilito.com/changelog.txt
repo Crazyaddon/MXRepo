@@ -1,0 +1,20 @@
+1.0.5
+- Fix dependencies
+- Back to list view in courses
+
+1.0.4
+- Fix videos count
+- Enabled thumbnails for courses
+
+1.0.3
+- Fix scrapper
+
+1.0.2
+- Migrated to xbmcswift2
+- Fix scrapper
+
+1.0.1
+- Fix server url
+
+1.0.0
+- First release
