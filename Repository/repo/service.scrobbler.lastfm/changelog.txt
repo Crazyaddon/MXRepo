@@ -1,0 +1,45 @@
+v1.2.2
+- add basic support for files without tags
+
+v1.2.1
+- language update
+- cosmetics
+
+v1.2.0
+- drop session key on 403 response
+
+v1.1.1
+- update language files from Transifex
+
+v1.1.0
+- new release
+
+v1.0.6
+- fixed potential loop
+
+v1.0.5
+- only analyze http(s)/rtmp streams
+
+v1.0.4
+- fixes for local path detection
+- remove old workaround
+- add more logging
+
+v1.0.3
+- update language files from Transifex
+- add better support for streaming radio
+
+v1.0.2
+- use waitForAbort()
+
+v1.0.1
+- add missing dependency
+
+v1.0.0
+- kodi name change
+
+v0.0.2
+- add missing file
+
+v0.0.1
+- initial release

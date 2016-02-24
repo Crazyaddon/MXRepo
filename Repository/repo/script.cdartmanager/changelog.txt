@@ -1,3 +1,14 @@
+4.1.0
+- first "official" release by stef.an
+- compatible with Helix and newer releases of Kodi
+- uses Fanart API V3
+- 4.1.x is a compatibility release, a complete rewrite to V5 is in the making
+
+4.0.5-stef.an-1
+- Fixed path issues for Kodi Helix
+
+---
+
 3.0.5/4.0.5
 - Frodo/Gotham Split
 - Change - Hide all artists option if disabled in settings

@@ -1,0 +1,29 @@
+** 0.1.1 **
+
+Disable VDR addon
+Backup keymap
+Allow new server address
+
+** 0.0.10 **
+
+Added oscam.server file check
+
+** 0.0.9 **
+
+Fix for recording being disabled on every startup
+
+** 0.0.8 **
+
+Update advancedsettings.xml
+
+** 0.0.7 **
+
+Fix for service disabling recording on shutdown/reboot
+
+** 0.0.6 **
+
+Add enabling of recording when a drive is inserted
+
+** 0.0.1 **
+
+Initial creation

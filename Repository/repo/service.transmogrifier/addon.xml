@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="service.transmogrifier" name="Transmogrifier" provider-name="DudeHere" version="0.1.34">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0" />
+        <import addon="script.module.dudehere.routines" />
+        <import addon="script.module.urlresolver" />
+        <import addon="script.module.myconnpy" version="0.3.2" />
+        <import addon="script.module.addon.common" version="2.0.0" />
+    </requires>
+    <extension library="default.py" point="xbmc.python.script">
+        <provides>executable</provides>
+    </extension>
+    <extension library="default.py" point="kodi.context.item">
+        <item>
+            <label>Transmogrifier Queue</label>
+            <visible>True</visible>
+        </item>
+    </extension>
+    <extension library="service.py" point="xbmc.service" start="startup" />
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary>Transmogrification is a new technology.</summary>
+        <description>Tell it what to get, and it gets it.</description>
+    </extension>
+</addon>
