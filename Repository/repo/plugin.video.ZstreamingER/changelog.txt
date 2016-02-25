@@ -1,0 +1,18 @@
+[B]Version 0.0.6[/B]
+- small fix to string of code
+
+[B]Version 0.0.5[/B]
+- small fix to string of code
+
+[B]Version 0.0.4[/B]
+- code clean up
+- added tv and movie section
+
+[B]Version 0.0.2[/B]
+- test addon
+- added more tv stuff
+- added new icons
+
+[B]Version 0.0.1[/B]
+- test addon
+

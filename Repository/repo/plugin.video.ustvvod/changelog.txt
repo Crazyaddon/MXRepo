@@ -1,3 +1,10 @@
+version 1.3.9
+
+  * fix History
+  * fix ABC Family
+  * fix MTV
+  * fix CBS (access login)
+
 version 1.3.8
 
   * fix AdultSwim

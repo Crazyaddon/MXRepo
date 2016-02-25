@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.yts" name="[COLOR FF6AC045]YTS[/COLOR] Viewer" version="1.0.3" provider-name="mancuniancol">
+<addon id="plugin.video.yts" name="[COLOR FF6AC045]YTS[/COLOR] Viewer" version="1.0.6" provider-name="mancuniancol">
 	<requires>
 		<import addon="xbmc.python" version="2.12.0"/>
 		<import addon="script.module.mctools" optional="false"/>

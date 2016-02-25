@@ -1,0 +1,4 @@
+Official Velocity addon For Kodi
+
+V 1.0.0
+Initial Release
